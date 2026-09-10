@@ -1,0 +1,1073 @@
+{
+  "apiVersion": "2.154",
+  "terms": "HORIZON-CL2-2026-01-DEMOCRACY-08",
+  "responseTime": 135,
+  "totalResults": 705226,
+  "pageNumber": 1,
+  "pageSize": 10,
+  "sort": "relevance",
+  "groupByField": "sortStatus",
+  "queryLanguage": {
+    "language": "es",
+    "probability": 0.9999955620647968
+  },
+  "spellingSuggestion": "horizon cl2 2026 01 democracy 08",
+  "bestBets": [],
+  "results": [
+    {
+      "apiVersion": "2.154",
+      "reference": "952562408",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/952562408",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "",
+      "summary": "FONDAZIONE EUROPEAN RESEARCH INSTITUTE ETS",
+      "weight": 40.979218,
+      "content": "FONDAZIONE EUROPEAN RESEARCH INSTITUTE ETS",
+      "accessRestriction": false,
+      "checksum": "F8956FF0C9CE0E3860DED3A1D59E43C54045F2B2E62D8C5C4327563A98F5184D",
+      "metadata": {
+        "esST_programmes": [
+          "43251447",
+          "31059093",
+          "43251589",
+          "31082527",
+          "43298203",
+          "43353764",
+          "43637601",
+          "43108390",
+          "43252405",
+          "43251814"
+        ],
+        "es_SortDate": [
+          "2026-07-02T15:33:39.579+0200"
+        ],
+        "keywords": [
+          "HORIZON-NEB-2026-01-REGEN-01",
+          "HORIZON-NEB-2026-01-PARTICIPATION-01",
+          "HORIZON-NEB-2026-01-BUSINESS-01",
+          "HORIZON-NEB-2026-01-PARTICIPATION-02",
+          "HORIZON-NEB-2026-01-REGEN-02",
+          "HORIZON-NEB-2026-01-REGEN-03",
+          "HORIZON-NEB-2026-01-BUSINESS-02",
+          "HORIZON-NEB-2026-01-BUSINESS-03",
+          "HORIZON-NEB-2026-01-PARTICIPATION-03",
+          "Developing operational tools to facilitate emergency response",
+          "decision support system",
+          "marine pollution",
+          "numerical modelling",
+          "oil and chemical spills",
+          "air dispersion",
+          "spills and container tracking",
+          "awareness",
+          "irregular migration",
+          "pakistan",
+          "awareness campaign",
+          "civic participation",
+          "digital resilience",
+          "disinformation",
+          "emotional literacy",
+          "gamification",
+          "interactive learning platform",
+          "media literacy",
+          "online manipulation",
+          "youth empowerment"
+        ],
+        "esIN_city": [
+          "TORINO"
+        ],
+        "esST_organisationType": [
+          "31079047"
+        ],
+        "esST_legalEntityStatus": [
+          "LEGAL_PERSON"
+        ],
+        "language": [
+          "en"
+        ],
+        "esST_vat": [
+          "IT11421750016"
+        ],
+        "type": [
+          "ORGANISATION"
+        ],
+        "esST_checksum": [
+          "F8956FF0C9CE0E3860DED3A1D59E43C54045F2B2E62D8C5C4327563A98F5184D"
+        ],
+        "esIN_noOfPartnerSearch": [
+          "24"
+        ],
+        "esBI_tagsAndKeywords": [
+          "[{\"text\":\"HORIZON-NEB-2026-01-REGEN-01\",\"portalKeyword\":true,\"dbId\":103622,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-PARTICIPATION-01\",\"portalKeyword\":true,\"dbId\":103623,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-BUSINESS-01\",\"portalKeyword\":true,\"dbId\":103624,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-PARTICIPATION-02\",\"portalKeyword\":true,\"dbId\":103625,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-REGEN-02\",\"portalKeyword\":true,\"dbId\":103627,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-REGEN-03\",\"portalKeyword\":true,\"dbId\":103628,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-BUSINESS-02\",\"portalKeyword\":true,\"dbId\":103630,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-BUSINESS-03\",\"portalKeyword\":true,\"dbId\":103629,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-PARTICIPATION-03\",\"portalKeyword\":true,\"dbId\":103626,\"deleted\":false},{\"text\":\"Developing operational tools to facilitate emergency response\",\"portalKeyword\":false,\"odsKeywordId\":3717074,\"deleted\":false},{\"text\":\"decision support system\",\"portalKeyword\":false,\"odsKeywordId\":3717075,\"deleted\":false},{\"text\":\"marine pollution\",\"portalKeyword\":false,\"odsKeywordId\":3717076,\"deleted\":false},{\"text\":\"numerical modelling\",\"portalKeyword\":false,\"odsKeywordId\":3717077,\"deleted\":false},{\"text\":\"oil and chemical spills\",\"portalKeyword\":false,\"odsKeywordId\":3717078,\"deleted\":false},{\"text\":\"air dispersion\",\"portalKeyword\":false,\"odsKeywordId\":5246404,\"deleted\":false},{\"text\":\"spills and container tracking\",\"portalKeyword\":false,\"odsKeywordId\":5246405,\"deleted\":false},{\"text\":\"awareness\",\"portalKeyword\":false,\"odsKeywordId\":5335583,\"deleted\":false},{\"text\":\"irregular migration\",\"portalKeyword\":false,\"odsKeywordId\":5335584,\"deleted\":false},{\"text\":\"pakistan\",\"portalKeyword\":false,\"odsKeywordId\":5335585,\"deleted\":false},{\"text\":\"awareness campaign\",\"portalKeyword\":false,\"odsKeywordId\":6431838,\"deleted\":false},{\"text\":\"civic participation\",\"portalKeyword\":false,\"odsKeywordId\":6431839,\"deleted\":false},{\"text\":\"digital resilience\",\"portalKeyword\":false,\"odsKeywordId\":6431840,\"deleted\":false},{\"text\":\"disinformation\",\"portalKeyword\":false,\"odsKeywordId\":6431841,\"deleted\":false},{\"text\":\"emotional literacy\",\"portalKeyword\":false,\"odsKeywordId\":6431842,\"deleted\":false},{\"text\":\"gamification\",\"portalKeyword\":false,\"odsKeywordId\":6431843,\"deleted\":false},{\"text\":\"interactive learning platform\",\"portalKeyword\":false,\"odsKeywordId\":6431844,\"deleted\":false},{\"text\":\"media literacy\",\"portalKeyword\":false,\"odsKeywordId\":6431845,\"deleted\":false},{\"text\":\"online manipulation\",\"portalKeyword\":false,\"odsKeywordId\":6431846,\"deleted\":false},{\"text\":\"youth empowerment\",\"portalKeyword\":false,\"odsKeywordId\":6431847,\"deleted\":false}]"
+        ],
+        "esBI_consortiumRoles": [
+          "[{\"key\":\"BENEFICIARY\",\"value\":4},{\"key\":\"COORDINATOR\",\"value\":1}]"
+        ],
+        "esBO_partnerSearchEnabled": [
+          "true"
+        ],
+        "esIN_pic": [
+          "952562408"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "esDA_lastModified": [
+          "2026-07-02T15:33:39.464+0200"
+        ],
+        "DATASOURCE": [
+          "SEDIA_PERSON"
+        ],
+        "REFERENCE": [
+          "952562408"
+        ],
+        "esST_country": [
+          "20000922"
+        ],
+        "esIN_deprecatedPics": [],
+        "esIN_name": [
+          "FONDAZIONE EUROPEAN RESEARCH INSTITUTE ETS"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "esDA_FirstIngestDate": [
+          "2024-11-11T03:33:29.617+0100"
+        ],
+        "esDA_IngestDate": [
+          "2026-07-02T15:33:39.607+0200"
+        ],
+        "esIN_registrationNum": [
+          "97750340016"
+        ],
+        "esST_topics": [
+          "AMIF-2022-TF1-AG-INFO",
+          "CERV-2025-CITIZENS-CIV",
+          "UCPM-2019-PP-PREP-AG",
+          "UCPM-2022-PP",
+          "HORIZON-MISS-2025-03-OCEAN-02",
+          "HORIZON-CL6-2025-01-BIODIV-07",
+          "HORIZON-MISS-2025-03-OCEAN-04",
+          "HORIZON-CL6-2025-01-ZEROPOLLUTION-04",
+          "HORIZON-CL6-2025-01-BIODIV-09",
+          "HORIZON-MISS-2025-01-CLIMA-03",
+          "HORIZON-CL6-2025-01-BIODIV-02",
+          "HORIZON-CL6-2025-01-BIODIV-01",
+          "LIFE-2025-SAP-NAT-NATURE",
+          "HORIZON-CL5-2026-02-D4-03",
+          "HORIZON-CL6-2025-02-FARM2FORK-05-two-stage",
+          "LIFE-2025-SAP-ENV-ENVIRONMENT",
+          "HORIZON-CL6-2025-02-FARM2FORK-16",
+          "HORIZON-CL3-2025-01-DRS-01",
+          "HORIZON-CL6-2025-02-COMMUNITIES-03",
+          "CERV-2025-EQUAL-ANTIMUSLIM",
+          "HORIZON-CL5-2026-02-D3-08",
+          "ERASMUS-SPORT-2026-SCP",
+          "CREA-CROSS-2026-MEDIALITERACY",
+          "PPPA-2025-DISINFORMATION-YOUNG",
+          "HORIZON-CL3-2026-01-DRS-05"
+        ],
+        "esBI_publicProjects": [
+          "[{\"program\":{\"id\":\"43251447\",\"abbreviation\":\"AMIF2027\",\"classId\":\"FPDivision\",\"context\":\"AMIF2027\",\"description\":\"Asylum, Migration and Integration Fund (AMIF)\"},\"number\":\"101102180\",\"dg\":\"HOME\",\"internalId\":283541,\"call\":{\"id\":\"44808411\",\"abbreviation\":\"AMIF-2022-TF1-AG-INFO\",\"classId\":\"Call\",\"context\":\"AMIF2027\",\"description\":\"Prevention of irregular migration through awareness raising and information campaigns on the risks of irregular migration in selected third countries and within Europe\"},\"acronym\":\"SAFER\",\"title\":\"Safe and legAl alternatives for Pakistani potEntial migrants and migrants on the Route\",\"phase\":\"Archive\",\"status\":\"Signed\",\"topic\":{\"id\":\"44808311\",\"abbreviation\":\"AMIF-2022-TF1-AG-INFO\",\"classId\":\"FPDivision\",\"context\":\"AMIF2027\",\"description\":\"Information and awareness raising campaigns on the risks of irregular migration in third countries and within Europe\"},\"fundingScheme\":{\"id\":\"43248975\",\"abbreviation\":\"AMIF-PJG\",\"classId\":\"Instrument\",\"context\":\"AMIF2027\",\"description\":\"AMIF Project Grants\"},\"subFundingScheme\":{\"id\":\"43248984\",\"abbreviation\":\"AMIF-AG\",\"classId\":\"ProjectType\",\"context\":\"AMIF2027\",\"description\":\"AMIF Action Grant Budget-Based\"},\"actions\":[\"ACCESS_SYGMA_DASHBOARD\"],\"businessIdentifier\":\"101102180\",\"duration\":0},{\"program\":{\"id\":\"31059093\",\"abbreviation\":\"EPLUS\",\"classId\":\"FPDivision\",\"context\":\"EPLUS\",\"description\":\"Erasmus+ Programme\"},\"number\":\"400617534\",\"dg\":\"EACEA\",\"internalId\":240711,\"call\":{\"id\":\"42626722\",\"abbreviation\":\"EAC-A02-2019-CBY\",\"classId\":\"Call\",\"context\":\"EPLUS\",\"description\":\"ERASMUS+ Call for proposals 2020\"},\"acronym\":\"Youth PURPOSE: Preparedness of YoUngsters, ResPonse, RecOvery, Solidarity, and VoluntEering in Times of Crises\",\"title\":\"Youth PURPOSE: Preparedness of YoUngsters, ResPonse, RecOvery, Solidarity, and VoluntEering in Times of Crises\",\"phase\":\"Grant Management\",\"status\":\"Signed\",\"actions\":[\"NO_PROJECT_MINI_DASHBOARD\"],\"businessIdentifier\":\"617534\",\"duration\":0},{\"program\":{\"id\":\"43251589\",\"abbreviation\":\"CERV\",\"classId\":\"FPDivision\",\"context\":\"CERV\",\"description\":\"Citizens, Equality, Rights and Values Programme (CERV)\"},\"number\":\"101253416\",\"dg\":\"EACEA\",\"internalId\":344518,\"call\":{\"id\":\"47621274\",\"abbreviation\":\"CERV-2025-CITIZENS-CIV\",\"classId\":\"Call\",\"context\":\"CERV\",\"description\":\"Citizens’ engagement and participation\"},\"acronym\":\"EMERGE\",\"title\":\"Enhancing Media and Emotional Resilience to Guard Democracy in Europe\",\"phase\":\"Grant Management\",\"status\":\"Signed\",\"topic\":{\"id\":\"47621211\",\"abbreviation\":\"CERV-2025-CITIZENS-CIV\",\"classId\":\"FPDivision\",\"context\":\"CERV\",\"description\":\"Citizens’ engagement and participation\"},\"fundingScheme\":{\"id\":\"43249808\",\"abbreviation\":\"CERV-LS\",\"classId\":\"Instrument\",\"context\":\"CERV\",\"description\":\"CERV Lump Sum Grants\"},\"subFundingScheme\":{\"id\":\"43249821\",\"abbreviation\":\"CERV-AG-LS\",\"classId\":\"ProjectType\",\"context\":\"CERV\",\"description\":\"CERV Lump Sum Grant\"},\"actions\":[\"ACCESS_SYGMA_DASHBOARD\"],\"businessIdentifier\":\"101253416\",\"duration\":0},{\"program\":{\"id\":\"31082527\",\"abbreviation\":\"UCPM\",\"classId\":\"FPDivision\",\"context\":\"UCPM\",\"description\":\"Union Civil Protection Mechanism\"},\"number\":\"874439\",\"dg\":\"ECHO\",\"internalId\":224025,\"call\":{\"id\":\"31103250\",\"abbreviation\":\"UCPM-2019-PP-AG\",\"classId\":\"Call\",\"context\":\"UCPM\",\"description\":\"Prevention and preparedness in civil protection and marine pollution\"},\"acronym\":\"Be-Ready\",\"title\":\"BEst Rapid Environmental Assessment Decision sYstem\",\"phase\":\"Archive\",\"status\":\"Signed\",\"topic\":{\"id\":\"31103247\",\"abbreviation\":\"UCPM-2019-PP-PREP-AG\",\"classId\":\"FPDivision\",\"context\":\"UCPM\",\"description\":\"Preparedness in civil protection and marine pollution\"},\"fundingScheme\":{\"id\":\"31082508\",\"abbreviation\":\"UCPM-EXT-AG\",\"classId\":\"Instrument\",\"context\":\"UCPM\",\"description\":\"UCPM External Action Grant\"},\"subFundingScheme\":{\"id\":\"31082508\",\"abbreviation\":\"UCPM-EXT-AG\",\"classId\":\"Instrument\",\"context\":\"UCPM\",\"description\":\"UCPM External Action Grant\"},\"actions\":[\"ACCESS_SYGMA_DASHBOARD\"],\"businessIdentifier\":\"874439\",\"duration\":0},{\"program\":{\"id\":\"43298203\",\"abbreviation\":\"UCPM2027\",\"classId\":\"FPDivision\",\"context\":\"UCPM2027\",\"description\":\"Union Civil Protection Mechanism (UCPM)\"},\"number\":\"101101263\",\"dg\":\"ECHO\",\"internalId\":277988,\"call\":{\"id\":\"44773940\",\"abbreviation\":\"UCPM-2022-PP\",\"classId\":\"Call\",\"context\":\"UCPM2027\",\"description\":\"Prevention and Preparedness Projects on Civil Protection and Marine Pollution\"},\"acronym\":\"PROMPT\",\"title\":\"PReparedness for Operational Monitoring and Prediction of contaminant Transport in the Sea\",\"phase\":\"Archive\",\"status\":\"Signed\",\"topic\":{\"id\":\"44773929\",\"abbreviation\":\"UCPM-2022-PP\",\"classId\":\"FPDivision\",\"context\":\"UCPM2027\",\"description\":\"Cross-Border Risks and Marine Pollution\"},\"fundingScheme\":{\"id\":\"43251279\",\"abbreviation\":\"UCPM-PJG\",\"classId\":\"Instrument\",\"context\":\"UCPM2027\",\"description\":\"UCPM Project Grants\"},\"subFundingScheme\":{\"id\":\"43251282\",\"abbreviation\":\"UCPM-AG\",\"classId\":\"ProjectType\",\"context\":\"UCPM2027\",\"description\":\"UCPM Action Grant Budget-Based\"},\"actions\":[\"ACCESS_SYGMA_DASHBOARD\"],\"businessIdentifier\":\"101101263\",\"duration\":0}]"
+        ],
+        "esBI_mainCollaborations": [
+          "[{\"pic\":\"999976687\",\"organisationLegalName\":\"UNIVERSITA DEGLI STUDI DI GENOVA\",\"organisationBusinessName\":\"UNIGE\",\"address\":{\"street\":\"VIA BALBI 5\",\"postalCode\":\"16126\",\"city\":\"GENOVA\",\"country\":{\"id\":\"20000922\",\"abbreviation\":\"IT\",\"description\":\"Italy\"},\"latitude\":44.4165869,\"longitude\":8.9236437},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"erasmusInstitutionCode\":\"I  GENOVA01\",\"organisationClassificationType\":{\"id\":\"31079050\",\"abbreviation\":\"HSE\",\"description\":\"Higher or secondary education establishment\"},\"value\":2},{\"pic\":\"997223342\",\"organisationLegalName\":\"UNIVERSITY OF JORDAN\",\"organisationBusinessName\":\"UJ\",\"address\":{\"street\":\"QUEEN RANIA AL ABDULLAH STREET\",\"poBox\":\"13042\",\"postalCode\":\"11942\",\"city\":\"Amman\",\"country\":{\"id\":\"20000924\",\"abbreviation\":\"JO\",\"description\":\"Jordan\"},\"latitude\":31.9515694,\"longitude\":35.9239625},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079050\",\"abbreviation\":\"HSE\",\"description\":\"Higher or secondary education establishment\"},\"value\":2},{\"pic\":\"906155862\",\"organisationLegalName\":\"OFFICE D\\u0027EXPLOITATION DU PORT DE TRIPOLI\",\"organisationBusinessName\":\"OEPT\",\"address\":{\"street\":\"PORT STREET EL MINA\",\"postalCode\":\"000\",\"city\":\"TRIPOLI\",\"country\":{\"id\":\"20000938\",\"abbreviation\":\"LB\",\"description\":\"Lebanon\"},\"latitude\":34.4348667,\"longitude\":35.8415463},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079053\",\"abbreviation\":\"Public Organisation\",\"description\":\"Public organisation\"},\"value\":2},{\"pic\":\"941752728\",\"organisationLegalName\":\"FUNDACION INSTITUTO DE HIDRAULICA AMBIENTAL DE CANTABRIA\",\"organisationBusinessName\":\"FIHAC\",\"address\":{\"street\":\"CALLE ISABEL TORRES 15 PARQUE CIENTIFICO Y TECNOLOGICO DE SANTA\",\"postalCode\":\"39011\",\"city\":\"SANTANDER\",\"country\":{\"id\":\"20000883\",\"abbreviation\":\"ES\",\"description\":\"Spain\"},\"latitude\":43.45273555,\"longitude\":-3.872547498322684},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079051\",\"abbreviation\":\"Research Organisation\",\"description\":\"Research Organisation\"},\"value\":2},{\"pic\":\"999887641\",\"organisationLegalName\":\"SOFIA UNIVERSITY ST KLIMENT OHRIDSKI\",\"organisationBusinessName\":\"UNISOFIA\",\"address\":{\"street\":\"BUL TZAR OSVOBODITEL 15\",\"postalCode\":\"1504\",\"city\":\"SOFIA\",\"country\":{\"id\":\"20000841\",\"abbreviation\":\"BG\",\"description\":\"Bulgaria\"},\"latitude\":42.6409324,\"longitude\":23.97589671895739},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"erasmusInstitutionCode\":\"BG SOFIA06\",\"organisationClassificationType\":{\"id\":\"31079050\",\"abbreviation\":\"HSE\",\"description\":\"Higher or secondary education establishment\"},\"value\":1},{\"pic\":\"896649668\",\"organisationLegalName\":\"YOUNG MEN\\u0027S CHRISTIAN ASSOCIATION OF ETHIOPIA\",\"address\":{\"street\":\"KIRKOS SUB CITY WEREDA 3 HOUSE 593\",\"poBox\":\"34340\",\"city\":\"ADDIS ABABA\",\"country\":{\"id\":\"20000884\",\"abbreviation\":\"ET\",\"description\":\"Ethiopia\"},\"latitude\":9.0107934,\"longitude\":38.7612525},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"944467661\",\"organisationLegalName\":\"YOUTH ALLIANCE - KRUSEVO\",\"organisationBusinessName\":\"YAK\",\"address\":{\"street\":\"STR MISE EFTIM 1A\",\"postalCode\":\"7550\",\"city\":\"KRUSEVO\",\"country\":{\"id\":\"20000952\",\"abbreviation\":\"MK\",\"description\":\"North Macedonia\"},\"latitude\":33.41151,\"longitude\":-94.126336},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"918215775\",\"organisationLegalName\":\"YOUNG AFRICA (NAMIBIA) TRUST\",\"organisationBusinessName\":\"YOUNG AFRICA NAMIBIA\",\"address\":{\"street\":\"15, 11TH STREET NORTH, MEERSIG\",\"poBox\":\"4783\",\"city\":\"WALVIS BAY\",\"country\":{\"id\":\"20000967\",\"abbreviation\":\"NA\",\"description\":\"Namibia\"},\"latitude\":0.0,\"longitude\":0.0},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"909174502\",\"organisationLegalName\":\"STICHTING DARE TO BE GREY\",\"organisationBusinessName\":\"DtbG\",\"address\":{\"street\":\"CASTELLUM 1\",\"postalCode\":\"2652 HZ\",\"city\":\"BERKEL EN RODENRIJS\",\"country\":{\"id\":\"20000973\",\"abbreviation\":\"NL\",\"description\":\"Netherlands\"},\"latitude\":51.9849402,\"longitude\":4.4617625},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"905907542\",\"organisationLegalName\":\"PM TEN SOCIETA A RESPONSABILITA LIMITATA\",\"address\":{\"street\":\"PIAZZA DELLA VITTORIA 7/14\",\"postalCode\":\"16121\",\"city\":\"GENOA\",\"country\":{\"id\":\"20000922\",\"abbreviation\":\"IT\",\"description\":\"Italy\"},\"latitude\":44.4036932,\"longitude\":8.9442178},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079052\",\"abbreviation\":\"Private for profit organisation\",\"description\":\"Private for profit organisation\"},\"value\":1},{\"pic\":\"929729675\",\"organisationLegalName\":\"FONDACIJA ANA I VLADE DIVAC\",\"organisationBusinessName\":\"FOUNDATION ANA AND VLADE DIVAC\",\"address\":{\"street\":\"ILIJE GARASANINA 53 A 7\",\"postalCode\":\"11000\",\"city\":\"BEOGRAD\",\"country\":{\"id\":\"20001057\",\"abbreviation\":\"RS\",\"description\":\"Serbia\"},\"latitude\":44.8178131,\"longitude\":20.4568974},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"913081953\",\"organisationLegalName\":\"YAYASAN 2030 PRAPTA NUSA\",\"organisationBusinessName\":\"2030 Youth Force Indonesia\",\"address\":{\"street\":\"JI PINUS PATULA PINE FOREST SENTUL CITY 16 CIJAYAN BABAKAN MADANG\",\"postalCode\":\"16810\",\"city\":\"BOGOR\",\"country\":{\"id\":\"20000914\",\"abbreviation\":\"ID\",\"description\":\"Indonesia\"},\"latitude\":-6.549444,\"longitude\":106.898889},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"944654774\",\"organisationLegalName\":\"CENTRO PER LO SVILUPPO CREATIVO DANILO DOLCI - ENTE DEL TERZO SETTORE\",\"organisationBusinessName\":\"CSC DANILO DOLCI ETS\",\"address\":{\"street\":\"VIA ROMA 94\",\"postalCode\":\"90133\",\"city\":\"PALERMO\",\"country\":{\"id\":\"20000922\",\"abbreviation\":\"IT\",\"description\":\"Italy\"},\"latitude\":38.1143451,\"longitude\":13.356007192900748},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"923939357\",\"organisationLegalName\":\"CONG TY CO PHAN PHAT TRIEN VIEC LAMTHANH THIEU NIEN VA XA HOI YESD\",\"organisationBusinessName\":\"YOUTH EMPLOYMENT AND SOCIETY DEVELOPMENT JOINT STOCK COMPANY\",\"address\":{\"street\":\"35C SUBLANE 70/29 KHUONG HA STREET KHUONG DINH WAR THANH XUAN DISTRICT\",\"postalCode\":\"100000\",\"city\":\"HANOI\",\"country\":{\"id\":\"20001042\",\"abbreviation\":\"VN\",\"description\":\"Viet Nam\"},\"latitude\":21.049773899999998,\"longitude\":105.83995117684378},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079052\",\"abbreviation\":\"Private for profit organisation\",\"description\":\"Private for profit organisation\"},\"value\":1},{\"pic\":\"951205960\",\"organisationLegalName\":\"STICHTING RADIO LA BENEVOLENCIJA HUMANITARIAN TOOLS FOUNDATION\",\"organisationBusinessName\":\"RLB\",\"address\":{\"street\":\"NIEUWEZIJDS VOORBURGWAL 296\",\"postalCode\":\"1012 RT\",\"city\":\"AMSTERDAM\",\"country\":{\"id\":\"20000973\",\"abbreviation\":\"NL\",\"description\":\"Netherlands\"},\"latitude\":52.3706609,\"longitude\":4.8898409},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"892379728\",\"organisationLegalName\":\"RED NOVA CONNECTING  ACTIONS  DEFENDING  RIGHTS ETS\",\"organisationBusinessName\":\"RED NOVA - ETS\",\"address\":{\"street\":\"VIA SAN PIO V, 15\",\"postalCode\":\"10125\",\"city\":\"TORINO\",\"country\":{\"id\":\"20000922\",\"abbreviation\":\"IT\",\"description\":\"Italy\"},\"latitude\":45.0592898,\"longitude\":7.6857083},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079054\",\"abbreviation\":\"Other\",\"description\":\"Other\"},\"value\":1},{\"pic\":\"911875758\",\"organisationLegalName\":\"ATHENS LIFELONG LEARNING INSTITUTE ASTIKI MI KERDOSKOPIKI ETAIRIA\",\"organisationBusinessName\":\"ATHENS LIFELONG LEARNING INSTITUTE\",\"address\":{\"street\":\"KIFISIAS AVENUE 62\",\"postalCode\":\"151 25\",\"city\":\"MAROUSI\",\"country\":{\"id\":\"20000902\",\"abbreviation\":\"EL\",\"description\":\"Greece\"},\"latitude\":38.045574349999995,\"longitude\":23.805270162605616},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079051\",\"abbreviation\":\"Research Organisation\",\"description\":\"Research Organisation\"},\"value\":1},{\"pic\":\"969224486\",\"organisationLegalName\":\"KENTRO MERIMNAS OIKOGENEIAS KAI PAIDIOU\",\"organisationBusinessName\":\"FAMILY AND CHILD CARE CENTER KMOP\",\"address\":{\"street\":\"SKOUFA 75\",\"postalCode\":\"106 80\",\"city\":\"ATHINA\",\"country\":{\"id\":\"20000902\",\"abbreviation\":\"EL\",\"description\":\"Greece\"},\"latitude\":39.2243973,\"longitude\":21.601207},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"891594610\",\"organisationLegalName\":\"WASDI S.a r.l.\",\"address\":{\"street\":\"ROUTE DE VOLMERANGE 100\",\"postalCode\":\"3593\",\"city\":\"DUDELANGE\",\"country\":{\"id\":\"20000945\",\"abbreviation\":\"LU\",\"description\":\"Luxembourg\"},\"latitude\":49.4608835,\"longitude\":6.080896},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079052\",\"abbreviation\":\"Private for profit organisation\",\"description\":\"Private for profit organisation\"},\"value\":1},{\"pic\":\"882564686\",\"organisationLegalName\":\"EUth Verein für Europa-Bildung \\u0026 Partizipation\",\"organisationBusinessName\":\"EUth\",\"address\":{\"street\":\"Belvederegasse 39/Top 7\",\"postalCode\":\"1040\",\"city\":\"VIENNA\",\"country\":{\"id\":\"20000832\",\"abbreviation\":\"AT\",\"description\":\"Austria\"},\"latitude\":48.22240855,\"longitude\":16.393492612888146},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079054\",\"abbreviation\":\"Other\",\"description\":\"Other\"},\"value\":1},{\"pic\":\"905083042\",\"organisationLegalName\":\"ASOCIACIÓN EMPRESAS CON VALORES\",\"organisationBusinessName\":\"CON VALORES\",\"address\":{\"street\":\"C. MOLINA DEL PALAU, NUM 1, PLANTA 7, PUERTA 26\",\"postalCode\":\"46013\",\"city\":\"VALENCIA\",\"region\":\"COMUNIDAD VALENCIANA\",\"country\":{\"id\":\"20000883\",\"abbreviation\":\"ES\",\"description\":\"Spain\"},\"latitude\":39.3262345,\"longitude\":-4.8380649},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"947131475\",\"organisationLegalName\":\"OUT OF THE BOX INTERNATIONAL\",\"organisationBusinessName\":\"OUT OF THE BOX INTERNATIONAL\",\"address\":{\"street\":\"RUE D ANDERLECHT 107\",\"postalCode\":\"1000\",\"city\":\"BRUXELLES\",\"country\":{\"id\":\"20000839\",\"abbreviation\":\"BE\",\"description\":\"Belgium\"},\"latitude\":50.8454109,\"longitude\":4.3445588},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1}]"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/952562408"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/952562408"
+        ],
+        "esDA_QueueDate": [
+          "2026-07-02T15:33:39.594+0200"
+        ],
+        "esIN_utroPic": [],
+        "esNU_noOfProjects": [
+          "5"
+        ],
+        "esIN_erasmusCode": [],
+        "esST_hasPartnerSearch": [
+          "true"
+        ],
+        "esST_validationStatus": [
+          "31042522"
+        ],
+        "esBI_workProgrammes": [
+          "[{\"key\":\"AMIF2027\",\"value\":1},{\"key\":\"CERV\",\"value\":1},{\"key\":\"EPLUS\",\"value\":1},{\"key\":\"UCPM\",\"value\":1},{\"key\":\"UCPM2027\",\"value\":1}]"
+        ],
+        "esIN_kohesioId": []
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "952562408. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/952562408"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "949643678",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/949643678",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "",
+      "summary": "AMERICAN UNIVERSITY IN BULGARIA",
+      "weight": 36.51823,
+      "content": "AMERICAN UNIVERSITY IN BULGARIA",
+      "accessRestriction": false,
+      "checksum": "79B02E016D0E5C596719FC6BE9564F0E072FBC1280D8B35543CAE4E69C56BE69",
+      "metadata": {
+        "esST_programmes": [
+          "43251447",
+          "43353764",
+          "31059093",
+          "31114387"
+        ],
+        "es_SortDate": [
+          "2026-06-28T02:30:31.314+0200"
+        ],
+        "keywords": [
+          "Call number HORIZON-CL2-2025-01-DEMOCRACY-01",
+          "disinformation and misinformation",
+          "cognitive warfare",
+          "cognitive security",
+          "information manipulation",
+          "Call number HORIZON-CL2-2025-01-DEMOCRACY-09",
+          "china. russia",
+          "diplomacy",
+          "eu economic policy",
+          "eu environmental policy",
+          "eu social policy",
+          "foreign policy",
+          "politicization",
+          "social activism",
+          "economic policy",
+          "economics",
+          "enlargement",
+          "euro",
+          "eurozone",
+          "integration",
+          "monetary policy",
+          "International cooperation",
+          "Learning mobility (including virtual and blended)",
+          "Mobility (virtual and blended)",
+          "access to healthcare",
+          "community engagement",
+          "cultural mediation",
+          "decent housing",
+          "employment opportunities",
+          "inclusion",
+          "jean monnet activities etc.",
+          "mobility of higher education students and staff",
+          "multistakeholder networks",
+          "participatory policy design",
+          "partnerships for cooperation and exchanges of good practices",
+          "partnerships for innovation",
+          "quality education",
+          "refugees"
+        ],
+        "esIN_city": [
+          "BLAGOEVGRAD"
+        ],
+        "esST_organisationType": [
+          "31079047"
+        ],
+        "esST_legalEntityStatus": [
+          "LEGAL_PERSON"
+        ],
+        "language": [
+          "en"
+        ],
+        "esST_vat": [
+          "BG000019449"
+        ],
+        "type": [
+          "ORGANISATION"
+        ],
+        "esST_checksum": [
+          "79B02E016D0E5C596719FC6BE9564F0E072FBC1280D8B35543CAE4E69C56BE69"
+        ],
+        "esIN_noOfPartnerSearch": [
+          "0"
+        ],
+        "esBI_tagsAndKeywords": [
+          "[{\"text\":\"Call number HORIZON-CL2-2025-01-DEMOCRACY-01\",\"portalKeyword\":true,\"dbId\":88068,\"deleted\":false},{\"text\":\"disinformation and misinformation\",\"portalKeyword\":true,\"dbId\":88069,\"deleted\":false},{\"text\":\"cognitive warfare\",\"portalKeyword\":true,\"dbId\":88070,\"deleted\":false},{\"text\":\"cognitive security\",\"portalKeyword\":true,\"dbId\":88071,\"deleted\":false},{\"text\":\"information manipulation\",\"portalKeyword\":true,\"dbId\":88072,\"deleted\":false},{\"text\":\"Call number HORIZON-CL2-2025-01-DEMOCRACY-09\",\"portalKeyword\":true,\"dbId\":88073,\"deleted\":false},{\"text\":\"china. russia\",\"portalKeyword\":false,\"odsKeywordId\":5149515,\"deleted\":true},{\"text\":\"diplomacy\",\"portalKeyword\":false,\"odsKeywordId\":5149516,\"deleted\":false},{\"text\":\"eu economic policy\",\"portalKeyword\":false,\"odsKeywordId\":5149517,\"deleted\":false},{\"text\":\"eu environmental policy\",\"portalKeyword\":false,\"odsKeywordId\":5149518,\"deleted\":false},{\"text\":\"eu social policy\",\"portalKeyword\":false,\"odsKeywordId\":5149519,\"deleted\":false},{\"text\":\"foreign policy\",\"portalKeyword\":false,\"odsKeywordId\":5149520,\"deleted\":false},{\"text\":\"politicization\",\"portalKeyword\":false,\"odsKeywordId\":5149521,\"deleted\":false},{\"text\":\"social activism\",\"portalKeyword\":false,\"odsKeywordId\":5149522,\"deleted\":false},{\"text\":\"economic policy\",\"portalKeyword\":false,\"odsKeywordId\":5918143,\"deleted\":false},{\"text\":\"economics\",\"portalKeyword\":false,\"odsKeywordId\":5918144,\"deleted\":true},{\"text\":\"enlargement\",\"portalKeyword\":false,\"odsKeywordId\":5918145,\"deleted\":true},{\"text\":\"euro\",\"portalKeyword\":false,\"odsKeywordId\":5918146,\"deleted\":false},{\"text\":\"eurozone\",\"portalKeyword\":false,\"odsKeywordId\":5918147,\"deleted\":false},{\"text\":\"integration\",\"portalKeyword\":false,\"odsKeywordId\":5918148,\"deleted\":false},{\"text\":\"monetary policy\",\"portalKeyword\":false,\"odsKeywordId\":5918149,\"deleted\":false},{\"text\":\"International cooperation\",\"portalKeyword\":false,\"odsKeywordId\":5891106,\"deleted\":false},{\"text\":\"Learning mobility (including virtual and blended)\",\"portalKeyword\":false,\"odsKeywordId\":5891107,\"deleted\":false},{\"text\":\"Mobility (virtual and blended)\",\"portalKeyword\":false,\"odsKeywordId\":5891108,\"deleted\":true},{\"text\":\"access to healthcare\",\"portalKeyword\":false,\"odsKeywordId\":5891109,\"deleted\":true},{\"text\":\"community engagement\",\"portalKeyword\":false,\"odsKeywordId\":5891110,\"deleted\":false},{\"text\":\"cultural mediation\",\"portalKeyword\":false,\"odsKeywordId\":5891111,\"deleted\":false},{\"text\":\"decent housing\",\"portalKeyword\":false,\"odsKeywordId\":5891112,\"deleted\":true},{\"text\":\"employment opportunities\",\"portalKeyword\":false,\"odsKeywordId\":5891113,\"deleted\":true},{\"text\":\"inclusion\",\"portalKeyword\":false,\"odsKeywordId\":5891114,\"deleted\":false},{\"text\":\"jean monnet activities etc.\",\"portalKeyword\":false,\"odsKeywordId\":5891115,\"deleted\":false},{\"text\":\"mobility of higher education students and staff\",\"portalKeyword\":false,\"odsKeywordId\":5891116,\"deleted\":false},{\"text\":\"multistakeholder networks\",\"portalKeyword\":false,\"odsKeywordId\":5891117,\"deleted\":false},{\"text\":\"participatory policy design\",\"portalKeyword\":false,\"odsKeywordId\":5891118,\"deleted\":false},{\"text\":\"partnerships for cooperation and exchanges of good practices\",\"portalKeyword\":false,\"odsKeywordId\":5891119,\"deleted\":false},{\"text\":\"partnerships for innovation\",\"portalKeyword\":false,\"odsKeywordId\":5891120,\"deleted\":false},{\"text\":\"quality education\",\"portalKeyword\":false,\"odsKeywordId\":5891121,\"deleted\":false},{\"text\":\"refugees\",\"portalKeyword\":false,\"odsKeywordId\":5891122,\"deleted\":false}]"
+        ],
+        "esBI_consortiumRoles": [
+          "[{\"key\":\"BENEFICIARY\",\"value\":1},{\"key\":\"COORDINATOR\",\"value\":8}]"
+        ],
+        "esBO_partnerSearchEnabled": [
+          "true"
+        ],
+        "esIN_pic": [
+          "949643678"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "esDA_lastModified": [
+          "2026-06-28T02:30:31.206+0200"
+        ],
+        "DATASOURCE": [
+          "SEDIA_PERSON"
+        ],
+        "REFERENCE": [
+          "949643678"
+        ],
+        "esST_country": [
+          "20000841"
+        ],
+        "esIN_deprecatedPics": [],
+        "esIN_name": [
+          "AMERICAN UNIVERSITY IN BULGARIA"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "esDA_FirstIngestDate": [
+          "2024-12-13T03:17:19.418+0100"
+        ],
+        "esDA_IngestDate": [
+          "2026-06-28T02:30:31.338+0200"
+        ],
+        "esIN_registrationNum": [
+          "000019449"
+        ],
+        "esST_topics": [
+          "AMIF-2023-TF2-AG-CALL-02-LOCAL",
+          "ERASMUS-JMO-2022-MODULE",
+          "ECHE-LP-2020",
+          "ERASMUS-JMO-2024-CHAIR"
+        ],
+        "esBI_publicProjects": [
+          "[{\"program\":{\"id\":\"43251447\",\"abbreviation\":\"AMIF2027\",\"classId\":\"FPDivision\",\"context\":\"AMIF2027\",\"description\":\"Asylum, Migration and Integration Fund (AMIF)\"},\"number\":\"101141126\",\"dg\":\"HOME\",\"internalId\":307560,\"call\":{\"id\":\"45707488\",\"abbreviation\":\"AMIF-2023-TF2-AG-CALL\",\"classId\":\"Call\",\"context\":\"AMIF2027\",\"description\":\"Transnational Actions on Asylum, Migration and Integration\"},\"acronym\":\"IN LOCO\",\"title\":\"Integration in Local Communities: Institutional Engagement, Rural Inclusion and Refugee-led Action Research\",\"phase\":\"Grant Management\",\"status\":\"Signed\",\"topic\":{\"id\":\"45707448\",\"abbreviation\":\"AMIF-2023-TF2-AG-CALL-02-LOCAL\",\"classId\":\"FPDivision\",\"context\":\"AMIF2027\",\"description\":\"Integration and inclusion at regional and local level\"},\"fundingScheme\":{\"id\":\"43248975\",\"abbreviation\":\"AMIF-PJG\",\"classId\":\"Instrument\",\"context\":\"AMIF2027\",\"description\":\"AMIF Project Grants\"},\"subFundingScheme\":{\"id\":\"43248984\",\"abbreviation\":\"AMIF-AG\",\"classId\":\"ProjectType\",\"context\":\"AMIF2027\",\"description\":\"AMIF Action Grant Budget-Based\"},\"actions\":[\"ACCESS_SYGMA_DASHBOARD\"],\"businessIdentifier\":\"101141126\",\"duration\":0},{\"program\":{\"id\":\"43353764\",\"abbreviation\":\"ERASMUS2027\",\"classId\":\"FPDivision\",\"context\":\"ERASMUS2027\",\"description\":\"Erasmus+ (ERASMUS+)\"},\"number\":\"101085033\",\"dg\":\"EACEA\",\"internalId\":274355,\"call\":{\"id\":\"44434381\",\"abbreviation\":\"ERASMUS-JMO-2022-HEI-TCH-RSCH\",\"classId\":\"Call\",\"context\":\"ERASMUS2027\",\"description\":\"Jean Monnet Actions in the field of Higher Education Teaching and Research\"},\"acronym\":\"EURCFPMS\",\"title\":\"EU –RUSSIA/CHINA RELATIONS AND THE FOREIGN POLICY OF THE MEMBER STATES\",\"phase\":\"Grant Management\",\"status\":\"Signed\",\"topic\":{\"id\":\"44434370\",\"abbreviation\":\"ERASMUS-JMO-2022-MODULE\",\"classId\":\"FPDivision\",\"context\":\"ERASMUS2027\",\"description\":\"Jean Monnet Actions in the field of Higher Education: Modules\"},\"fundingScheme\":{\"id\":\"43341818\",\"abbreviation\":\"ERASMUS-LS\",\"classId\":\"Instrument\",\"context\":\"ERASMUS2027\",\"description\":\"ERASMUS Lump Sum Grants\"},\"subFundingScheme\":{\"id\":\"43341839\",\"abbreviation\":\"ERASMUS-AG-LS\",\"classId\":\"ProjectType\",\"context\":\"ERASMUS2027\",\"description\":\"ERASMUS Lump Sum Grant\"},\"actions\":[\"ACCESS_SYGMA_DASHBOARD\"],\"businessIdentifier\":\"101085033\",\"duration\":0},{\"program\":{\"id\":\"31059093\",\"abbreviation\":\"EPLUS\",\"classId\":\"FPDivision\",\"context\":\"EPLUS\",\"description\":\"Erasmus+ Programme\"},\"number\":\"400553143\",\"dg\":\"EACEA\",\"internalId\":179847,\"call\":{\"id\":\"31061167\",\"abbreviation\":\"EAC-S11-13\",\"classId\":\"Call\",\"context\":\"EPLUS\",\"description\":\"Erasmus+ programme CALL FOR PROPOSALS 2013\"},\"acronym\":\"European Lobbying: Interest Groups and European Integration\",\"title\":\"European Lobbying: Interest Groups and European Integration\",\"phase\":\"Grant Management\",\"status\":\"Signed\",\"actions\":[\"NO_PROJECT_MINI_DASHBOARD\"],\"businessIdentifier\":\"553143\",\"duration\":0},{\"program\":{\"id\":\"31059093\",\"abbreviation\":\"EPLUS\",\"classId\":\"FPDivision\",\"context\":\"EPLUS\",\"description\":\"Erasmus+ Programme\"},\"number\":\"400610827\",\"dg\":\"EACEA\",\"internalId\":225565,\"call\":{\"id\":\"31092931\",\"abbreviation\":\"EACEA-03-2018\",\"classId\":\"Call\",\"context\":\"EPLUS\",\"description\":\"Erasmus Charter for Higher Education\"},\"acronym\":\"Social Policy and Politics in the EU \",\"title\":\"Social Policy and Politics in the EU \",\"phase\":\"Grant Management\",\"status\":\"Signed\",\"actions\":[\"NO_PROJECT_MINI_DASHBOARD\"],\"businessIdentifier\":\"610827\",\"duration\":0},{\"program\":{\"id\":\"31114387\",\"abbreviation\":\"EPLUS2020\",\"classId\":\"FPDivision\",\"context\":\"EPLUS2020\",\"description\":\"The European Union programme for education, training, youth and sport\"},\"number\":\"101010393\",\"dg\":\"EACEA\",\"internalId\":316921,\"call\":{\"id\":\"42800831\",\"abbreviation\":\"EACEA-03-2020-1\",\"classId\":\"Call\",\"context\":\"EPLUS2020\",\"description\":\"Erasmus Charter for Higher Education 2021-2027\"},\"acronym\":\"AUBG-ECHE-LP-2020\",\"title\":\"AUBG Application for Erasmus Charter for Higher Education LP 2021-2027\",\"phase\":\"Grant Management\",\"status\":\"Signed\",\"topic\":{\"id\":\"42800763\",\"abbreviation\":\"ECHE-LP-2020\",\"classId\":\"FPDivision\",\"context\":\"EPLUS2020\",\"description\":\"ECHE selection light procedure\"},\"fundingScheme\":{\"id\":\"42831567\",\"abbreviation\":\"EPLUS2020-ACR\",\"classId\":\"Instrument\",\"context\":\"EPLUS2020\",\"description\":\"EPLUS2020 Accreditation\"},\"subFundingScheme\":{\"id\":\"42831567\",\"abbreviation\":\"EPLUS2020-ACR\",\"classId\":\"Instrument\",\"context\":\"EPLUS2020\",\"description\":\"EPLUS2020 Accreditation\"},\"actions\":[\"ACCESS_SYGMA_DASHBOARD\"],\"businessIdentifier\":\"101010393\",\"duration\":0},{\"program\":{\"id\":\"31059093\",\"abbreviation\":\"EPLUS\",\"classId\":\"FPDivision\",\"context\":\"EPLUS\",\"description\":\"Erasmus+ Programme\"},\"number\":\"400611118\",\"dg\":\"EACEA\",\"internalId\":225566,\"call\":{\"id\":\"31092931\",\"abbreviation\":\"EACEA-03-2018\",\"classId\":\"Call\",\"context\":\"EPLUS\",\"description\":\"Erasmus Charter for Higher Education\"},\"acronym\":\"EU Diplomacy: Instruments and Policies \",\"title\":\"EU Diplomacy: Instruments and Policies \",\"phase\":\"Grant Management\",\"status\":\"Signed\",\"actions\":[\"NO_PROJECT_MINI_DASHBOARD\"],\"businessIdentifier\":\"611118\",\"duration\":0},{\"program\":{\"id\":\"43353764\",\"abbreviation\":\"ERASMUS2027\",\"classId\":\"FPDivision\",\"context\":\"ERASMUS2027\",\"description\":\"Erasmus+ (ERASMUS+)\"},\"number\":\"101085187\",\"dg\":\"EACEA\",\"internalId\":274157,\"call\":{\"id\":\"44434381\",\"abbreviation\":\"ERASMUS-JMO-2022-HEI-TCH-RSCH\",\"classId\":\"Call\",\"context\":\"ERASMUS2027\",\"description\":\"Jean Monnet Actions in the field of Higher Education Teaching and Research\"},\"acronym\":\"ANSAEU\",\"title\":\"Act Now! Social activism in the EU\",\"phase\":\"Grant Management\",\"status\":\"Signed\",\"topic\":{\"id\":\"44434370\",\"abbreviation\":\"ERASMUS-JMO-2022-MODULE\",\"classId\":\"FPDivision\",\"context\":\"ERASMUS2027\",\"description\":\"Jean Monnet Actions in the field of Higher Education: Modules\"},\"fundingScheme\":{\"id\":\"43341818\",\"abbreviation\":\"ERASMUS-LS\",\"classId\":\"Instrument\",\"context\":\"ERASMUS2027\",\"description\":\"ERASMUS Lump Sum Grants\"},\"subFundingScheme\":{\"id\":\"43341839\",\"abbreviation\":\"ERASMUS-AG-LS\",\"classId\":\"ProjectType\",\"context\":\"ERASMUS2027\",\"description\":\"ERASMUS Lump Sum Grant\"},\"actions\":[\"ACCESS_SYGMA_DASHBOARD\"],\"businessIdentifier\":\"101085187\",\"duration\":0},{\"program\":{\"id\":\"43353764\",\"abbreviation\":\"ERASMUS2027\",\"classId\":\"FPDivision\",\"context\":\"ERASMUS2027\",\"description\":\"Erasmus+ (ERASMUS+)\"},\"number\":\"101172669\",\"dg\":\"EACEA\",\"internalId\":316342,\"call\":{\"id\":\"46245381\",\"abbreviation\":\"ERASMUS-JMO-2024-HEI-TCH-RSCH\",\"classId\":\"Call\",\"context\":\"ERASMUS2027\",\"description\":\"Jean Monnet Actions in the field of Higher Education Teaching and Research\"},\"acronym\":\"EURO-FOR-ALL\",\"title\":\"Unlocking the Potential of the Euro: A Path to Economic Integration and Stability\",\"phase\":\"Archive\",\"status\":\"Signed\",\"topic\":{\"id\":\"46245348\",\"abbreviation\":\"ERASMUS-JMO-2024-CHAIR\",\"classId\":\"FPDivision\",\"context\":\"ERASMUS2027\",\"description\":\"Jean Monnet Actions in the field of Higher Education: Chairs\"},\"fundingScheme\":{\"id\":\"43341818\",\"abbreviation\":\"ERASMUS-LS\",\"classId\":\"Instrument\",\"context\":\"ERASMUS2027\",\"description\":\"ERASMUS Lump Sum Grants\"},\"subFundingScheme\":{\"id\":\"43341839\",\"abbreviation\":\"ERASMUS-AG-LS\",\"classId\":\"ProjectType\",\"context\":\"ERASMUS2027\",\"description\":\"ERASMUS Lump Sum Grant\"},\"actions\":[\"ACCESS_SYGMA_DASHBOARD\"],\"businessIdentifier\":\"101172669\",\"duration\":0},{\"program\":{\"id\":\"31059093\",\"abbreviation\":\"EPLUS\",\"classId\":\"FPDivision\",\"context\":\"EPLUS\",\"description\":\"Erasmus+ Programme\"},\"number\":\"400564994\",\"dg\":\"EACEA\",\"internalId\":138214,\"call\":{\"id\":\"31064889\",\"abbreviation\":\"EAC-A04-2014\",\"classId\":\"Call\",\"context\":\"EPLUS\",\"description\":\"Erasmus+ programme CALL FOR PROPOSALS 2015\"},\"acronym\":\"European Integration and The Transformation of European Diplomacy from 1945 to Present\",\"title\":\"European Integration and The Transformation of European Diplomacy from 1945 to Present\",\"phase\":\"Grant Management\",\"status\":\"Signed\",\"actions\":[\"NO_PROJECT_MINI_DASHBOARD\"],\"businessIdentifier\":\"564994\",\"duration\":0}]"
+        ],
+        "esBI_mainCollaborations": [
+          "[{\"pic\":\"997608529\",\"organisationLegalName\":\"COMUNE DI PRATO\",\"address\":{\"street\":\"PIAZZA DEL COMUNE 2\",\"postalCode\":\"59100\",\"city\":\"PRATO\",\"country\":{\"id\":\"20000922\",\"abbreviation\":\"IT\",\"description\":\"Italy\"},\"latitude\":43.8805141,\"longitude\":11.0969871},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079053\",\"abbreviation\":\"Public Organisation\",\"description\":\"Public organisation\"},\"value\":1},{\"pic\":\"876028923\",\"organisationLegalName\":\"INTERKULTUR I LUND\",\"address\":{\"street\":\"ARKIVGATAN 32\",\"postalCode\":\"223 59\",\"city\":\"LUND\",\"country\":{\"id\":\"20001001\",\"abbreviation\":\"SE\",\"description\":\"Sweden\"},\"latitude\":55.71728,\"longitude\":13.2178878},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"909220480\",\"organisationLegalName\":\"GLOCAL FACTORY SOCIETA COOPERATIVA SOCIALE\",\"address\":{\"street\":\"VICOLETTO VALLE 2\",\"postalCode\":\"37122\",\"city\":\"VERONA\",\"country\":{\"id\":\"20000922\",\"abbreviation\":\"IT\",\"description\":\"Italy\"},\"latitude\":45.4372809,\"longitude\":10.9860205},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"899809055\",\"organisationLegalName\":\"SECOND TREE\",\"address\":{\"street\":\"KALOUDI 3\",\"postalCode\":\"452 21\",\"city\":\"IOANNINA\",\"country\":{\"id\":\"20000902\",\"abbreviation\":\"EL\",\"description\":\"Greece\"},\"latitude\":38.9953683,\"longitude\":21.9877132},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"881958145\",\"organisationLegalName\":\"ASOCIACION PARTICIPA PARA LA INCLUSION SOCIAL \",\"organisationBusinessName\":\"ASOCIACIÓN PARTICIPA PARA LA INCLUSIÓN SOCIAL \",\"address\":{\"street\":\"CALLE DOCTOR FLEMING NUM 11 PLANTA 1\",\"postalCode\":\"15005\",\"city\":\"CORUNA\",\"country\":{\"id\":\"20000883\",\"abbreviation\":\"ES\",\"description\":\"Spain\"},\"latitude\":43.3618314,\"longitude\":-8.4127411},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"927679871\",\"organisationLegalName\":\"MUNICIPALITY OF IOANNINA\",\"organisationBusinessName\":\"MUNICIPALITY OF IOANNINA\",\"address\":{\"street\":\"ANDREA PAPANDREOU SQUARE 5\",\"postalCode\":\"452 21\",\"city\":\"IOANNINA\",\"country\":{\"id\":\"20000902\",\"abbreviation\":\"EL\",\"description\":\"Greece\"},\"latitude\":39.82882455,\"longitude\":20.838587837357622},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079053\",\"abbreviation\":\"Public Organisation\",\"description\":\"Public organisation\"},\"value\":1},{\"pic\":\"999637866\",\"organisationLegalName\":\"LUNDS KOMMUN\",\"organisationBusinessName\":\"LUND\",\"address\":{\"street\":\"PO BOX 41\",\"poBox\":\"41\",\"postalCode\":\"221 00\",\"city\":\"LUND\",\"country\":{\"id\":\"20001001\",\"abbreviation\":\"SE\",\"description\":\"Sweden\"},\"latitude\":55.7067141,\"longitude\":13.200225800459107},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079053\",\"abbreviation\":\"Public Organisation\",\"description\":\"Public organisation\"},\"value\":1},{\"pic\":\"881831172\",\"organisationLegalName\":\"KARNTNER GEMEINDEBUND\",\"address\":{\"street\":\"GABELSBERGERSTRASSE 5/1\",\"postalCode\":\"9020\",\"city\":\"KLAGENFURT AM WORTHERSEE\",\"country\":{\"id\":\"20000832\",\"abbreviation\":\"AT\",\"description\":\"Austria\"},\"latitude\":46.601595950000004,\"longitude\":14.294768882252203},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"950561589\",\"organisationLegalName\":\"COMUNE DI RAVENNA\",\"organisationBusinessName\":\"RAVENNA\",\"address\":{\"street\":\"PIAZZA DEL POPOLO 1\",\"postalCode\":\"48121\",\"city\":\"RAVENNA\",\"country\":{\"id\":\"20000922\",\"abbreviation\":\"IT\",\"description\":\"Italy\"},\"latitude\":44.4179214,\"longitude\":12.199191},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079053\",\"abbreviation\":\"Public Organisation\",\"description\":\"Public organisation\"},\"value\":1},{\"pic\":\"900583794\",\"organisationLegalName\":\"INSTITUTIA PREFECTULUI-JUDETUL CONSTANTA\",\"organisationBusinessName\":\"IP-JC\",\"address\":{\"street\":\"BULEVARDUL TOMIS NR 51\",\"postalCode\":\"900725\",\"city\":\"CONSTANTA\",\"country\":{\"id\":\"20000994\",\"abbreviation\":\"RO\",\"description\":\"Romania\"},\"latitude\":44.1768806,\"longitude\":28.651048028111482},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079053\",\"abbreviation\":\"Public Organisation\",\"description\":\"Public organisation\"},\"value\":1},{\"pic\":\"895694412\",\"organisationLegalName\":\"COLLECTIF D\\u0027ECHANGES POUR LA TECHNOLOGIE APPROPRIEE ASBL\",\"organisationBusinessName\":\"COTA\",\"address\":{\"street\":\"RUE DE LA REVOLUTION 7\",\"postalCode\":\"1000\",\"city\":\"BRUXELLES\",\"country\":{\"id\":\"20000839\",\"abbreviation\":\"BE\",\"description\":\"Belgium\"},\"latitude\":50.850715750000006,\"longitude\":4.366828506886861},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079054\",\"abbreviation\":\"Other\",\"description\":\"Other\"},\"value\":1},{\"pic\":\"887306531\",\"organisationLegalName\":\"FH KAERNTEN - GEMEINNUETZIGE GmbH\",\"organisationBusinessName\":\"CARINTHIA UNIVERSITY OF APPLIED SCIENCES\",\"address\":{\"street\":\"EUROPASTRASSE 4\",\"postalCode\":\"9524\",\"city\":\"VILLACH\",\"country\":{\"id\":\"20000832\",\"abbreviation\":\"AT\",\"description\":\"Austria\"},\"latitude\":46.60989535,\"longitude\":13.886614699999999},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"erasmusInstitutionCode\":\"A  SPITTAL01\",\"organisationClassificationType\":{\"id\":\"31079050\",\"abbreviation\":\"HSE\",\"description\":\"Higher or secondary education establishment\"},\"value\":1},{\"pic\":\"905951871\",\"organisationLegalName\":\"FUNDACAO MARIA ROSA DE MELLO E FARO DE CARVALHO BORGES DA GAMA E FILHOS\",\"address\":{\"street\":\"QUINTA DO CARVALHO - LUGAR FONTELAS\",\"postalCode\":\"5050-027\",\"city\":\"VILA REAL\",\"country\":{\"id\":\"20000990\",\"abbreviation\":\"PT\",\"description\":\"Portugal\"},\"latitude\":41.16569,\"longitude\":-7.8223354},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"871026439\",\"organisationLegalName\":\"ASOCIACIÓN CAGUAMA INSTITUTO DE MIGRACIÓNS ECOSOCIAIS\",\"organisationBusinessName\":\"Caguama Migracións Ecosociais\",\"address\":{\"street\":\"Avda. Gramela 30, 6º D\",\"postalCode\":\"15010\",\"city\":\"A Coruña (A Coruña)\",\"country\":{\"id\":\"20000883\",\"abbreviation\":\"ES\",\"description\":\"Spain\"},\"latitude\":43.3615865,\"longitude\":-8.4383768},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"924758522\",\"organisationLegalName\":\"MUNICIPIO DE BRAGA\",\"organisationBusinessName\":\"BRAGA MUNICIPALITY\",\"address\":{\"street\":\"PRACA MUNICIPAL\",\"postalCode\":\"4704 514\",\"city\":\"BRAGA\",\"country\":{\"id\":\"20000990\",\"abbreviation\":\"PT\",\"description\":\"Portugal\"},\"latitude\":41.2834288,\"longitude\":-7.3569215},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079053\",\"abbreviation\":\"Public Organisation\",\"description\":\"Public organisation\"},\"value\":1},{\"pic\":\"999974359\",\"organisationLegalName\":\"UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN\",\"organisationBusinessName\":\"NUID UCD\",\"address\":{\"street\":\"BELFIELD\",\"postalCode\":\"4\",\"city\":\"DUBLIN\",\"country\":{\"id\":\"20000915\",\"abbreviation\":\"IE\",\"description\":\"Ireland\"},\"latitude\":53.3136446,\"longitude\":-6.23482456674237},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"erasmusInstitutionCode\":\"IRLDUBLIN02\",\"organisationClassificationType\":{\"id\":\"31079050\",\"abbreviation\":\"HSE\",\"description\":\"Higher or secondary education establishment\"},\"value\":1},{\"pic\":\"919601711\",\"organisationLegalName\":\"ASOCIATIA SERVICIUL IEZUITILOR PENTRU REFUGIATII DIN ROMANIA\",\"organisationBusinessName\":\"JESUIT REFUGEE SERVICE ROMANIA\",\"address\":{\"street\":\"MAIOR ILIE OPRIS 54 SECTOR 4\",\"postalCode\":\"041378\",\"city\":\"BUCURESTI\",\"country\":{\"id\":\"20000994\",\"abbreviation\":\"RO\",\"description\":\"Romania\"},\"latitude\":44.397479,\"longitude\":26.1024657},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1}]"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/949643678"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/949643678"
+        ],
+        "esDA_QueueDate": [
+          "2026-06-28T02:30:31.324+0200"
+        ],
+        "esIN_utroPic": [],
+        "esNU_noOfProjects": [
+          "9"
+        ],
+        "esIN_erasmusCode": [
+          "BG BLAGOEV03"
+        ],
+        "esST_hasPartnerSearch": [
+          "false"
+        ],
+        "esST_validationStatus": [
+          "31042522"
+        ],
+        "esBI_workProgrammes": [
+          "[{\"key\":\"AMIF2027\",\"value\":1},{\"key\":\"EPLUS\",\"value\":4},{\"key\":\"EPLUS2020\",\"value\":1},{\"key\":\"ERASMUS2027\",\"value\":3}]"
+        ],
+        "esIN_kohesioId": []
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "949643678. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/949643678"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "71784",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq/71784",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "",
+      "summary": "In the context of topic HORIZON-CL2-2025-01-DEMOCRACY-08, can industry partners be included in the consortia",
+      "weight": 34.262966,
+      "content": "In the context of topic <b>HORIZON</b>-<b>CL2</b>-2025-<b>01</b>-<b>DEMOCRACY</b>-<b>08</b>, can industry partners be included in the consortia",
+      "accessRestriction": false,
+      "checksum": "A64C39018E9899B0F455E8C5136FAFD4DADE332DBAB68032A2D921FDAAE5E5BF",
+      "metadata": {
+        "es_SortDate": [
+          "2025-08-21T17:56:31.923+0200"
+        ],
+        "esST_archivedDate": [],
+        "esST_relatedFaqNodes": [
+          "[]"
+        ],
+        "language": [
+          "en"
+        ],
+        "type": [
+          "3"
+        ],
+        "esST_checksum": [
+          "A64C39018E9899B0F455E8C5136FAFD4DADE332DBAB68032A2D921FDAAE5E5BF"
+        ],
+        "esST_procedureId": [],
+        "esST_selectedLots": [],
+        "esST_isTopTen": [
+          "false"
+        ],
+        "esST_qaCategory": [],
+        "esST_modificationDate": [
+          "1749808159000"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "DATASOURCE": [
+          "SEDIA_FAQ"
+        ],
+        "REFERENCE": [
+          "71784"
+        ],
+        "esST_justification": [],
+        "esST_shortAnswer": [
+          "Yes, consortia can include a wide range of partners (academic institutions, industry partners, charities, advice groups, civil society organisations, and others), provided that each ..."
+        ],
+        "esIN_keyword": [
+          "HORIZON-CL2-2025-01-DEMOCRACY-08"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "esST_votesPercent": [
+          "[{\"yes\":0,\"no\":0}]"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-08-21T17:56:31.940+0200"
+        ],
+        "esDA_IngestDate": [
+          "2025-08-21T17:56:31.940+0200"
+        ],
+        "esST_nid": [
+          "71784"
+        ],
+        "esST_answer": [
+          "<p>Yes, consortia can include a wide range of partners (academic institutions, industry partners, charities, advice groups, civil society organisations, and others), provided that each brings relevant expertise. What is important is that proposals include diverse stakeholders, representing different demographic groups, as stated in the topic text.</p>"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq/71784"
+        ],
+        "esST_programme": [],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq/71784"
+        ],
+        "esST_period": [
+          "2021 - 2027"
+        ],
+        "cenTagsA": [
+          "FAQS-091127",
+          "FAQS-091128",
+          "FAQS-005907",
+          "FAQS-002478",
+          "FAQS-036983"
+        ],
+        "esDA_QueueDate": [
+          "2025-08-21T17:56:31.930+0200"
+        ],
+        "esST_question": [
+          "In the context of topic HORIZON-CL2-2025-01-DEMOCRACY-08, can industry partners be included in the consortia"
+        ],
+        "status": [
+          "0"
+        ],
+        "esST_publicationDate": [
+          "1749808159000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "In the context of topic <b>HORIZON</b>-<b>CL2</b>-2025-<b>01</b>-<b>DEMOCRACY</b>-<b>08</b>, can industry partners be included in the consortia"
+      ],
+      "citation": "71784. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq/71784"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "502188206144066",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-03.json",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Government in transition – how governments change the way they work and prepare the civil service for the future",
+      "weight": 33.940327,
+      "content": "Government in transition – how governments change the way they work and prepare the civil service for the future",
+      "accessRestriction": false,
+      "checksum": "8EE502A2B7EA6312228DDB57486BC8CC049CBDEC5CC8676EAFC3D69D42D04A9F",
+      "metadata": {
+        "identifier": [
+          "HORIZON-CL2-2026-01-DEMOCRACY-03"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2026-05-13T06:20:06.532+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2026-06-03T11:06:10.070+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-07-24T10:41:42.897+0200"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-CL2-2026-01-DEMOCRACY-06, HORIZON-CL2-2026-01-TRANSFO-09, HORIZON-CL2-2026-01-DEMOCRACY-03, HORIZON-CL2-2026-01-HERITAGE-02, HORIZON-CL2-2026-01-DEMOCRACY-01, HORIZON-CL2-2026-01-TRANSFO-08, HORIZON-CL2-2026-01-HERITAGE-07, HORIZON-CL2-2026-01-DEMOCRACY-02, HORIZON-CL2-2026-01-TRANSFO-10, HORIZON-CL2-2026-01-TRANSFO-02, HORIZON-CL2-2026-01-DEMOCRACY-07, HORIZON-CL2-2026-01-TRANSFO-03, HORIZON-CL2-2026-01-TRANSFO-04, HORIZON-CL2-2026-01-HERITAGE-06, HORIZON-CL2-2026-01-DEMOCRACY-10, HORIZON-CL2-2026-01-DEMOCRACY-08, HORIZON-CL2-2026-01-DEMOCRACY-05, HORIZON-CL2-2026-01-HERITAGE-05, HORIZON-CL2-2026-01-HERITAGE-03, HORIZON-CL2-2026-01-HERITAGE-04, HORIZON-CL2-2026-01-HERITAGE-01, HORIZON-CL2-2026-01-DEMOCRACY-09, HORIZON-CL2-2026-01-TRANSFO-07, HORIZON-CL2-2026-01-TRANSFO-06, HORIZON-CL2-2026-01-TRANSFO-05, HORIZON-CL2-2026-01-DEMOCRACY-04"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Government in transition – how governments change the way they work and prepare the civil service for the future"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "8EE502A2B7EA6312228DDB57486BC8CC049CBDEC5CC8676EAFC3D69D42D04A9F"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-03.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-03.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-07-24T10:41:42.878+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-CL2-2026-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "502188206144066"
+        ],
+        "callTitle": [
+          "Culture, Creativity and Inclusive Society 2026"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2026-05-13T06:20:06.532+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "Government in transition – how governments change the way they work and prepare the civil service for the future. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-03.json"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "502184686144067",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-HERITAGE-02.json",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Boosting creative startups for disruptive innovation",
+      "weight": 33.940327,
+      "content": "Boosting creative startups for disruptive innovation",
+      "accessRestriction": false,
+      "checksum": "8639F738828826E443429E67322D840165DF0C648FDA9E0AA0B9EDF7B9BCE13F",
+      "metadata": {
+        "identifier": [
+          "HORIZON-CL2-2026-01-HERITAGE-02"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2026-05-13T06:20:06.534+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2026-05-13T08:20:14.525+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-07-24T10:41:43.398+0200"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-CL2-2026-01-DEMOCRACY-06, HORIZON-CL2-2026-01-TRANSFO-09, HORIZON-CL2-2026-01-DEMOCRACY-03, HORIZON-CL2-2026-01-HERITAGE-02, HORIZON-CL2-2026-01-DEMOCRACY-01, HORIZON-CL2-2026-01-TRANSFO-08, HORIZON-CL2-2026-01-HERITAGE-07, HORIZON-CL2-2026-01-DEMOCRACY-02, HORIZON-CL2-2026-01-TRANSFO-10, HORIZON-CL2-2026-01-TRANSFO-02, HORIZON-CL2-2026-01-DEMOCRACY-07, HORIZON-CL2-2026-01-TRANSFO-03, HORIZON-CL2-2026-01-TRANSFO-04, HORIZON-CL2-2026-01-HERITAGE-06, HORIZON-CL2-2026-01-DEMOCRACY-10, HORIZON-CL2-2026-01-DEMOCRACY-08, HORIZON-CL2-2026-01-DEMOCRACY-05, HORIZON-CL2-2026-01-HERITAGE-05, HORIZON-CL2-2026-01-HERITAGE-03, HORIZON-CL2-2026-01-HERITAGE-04, HORIZON-CL2-2026-01-HERITAGE-01, HORIZON-CL2-2026-01-DEMOCRACY-09, HORIZON-CL2-2026-01-TRANSFO-07, HORIZON-CL2-2026-01-TRANSFO-06, HORIZON-CL2-2026-01-TRANSFO-05, HORIZON-CL2-2026-01-DEMOCRACY-04"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Boosting creative startups for disruptive innovation"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "8639F738828826E443429E67322D840165DF0C648FDA9E0AA0B9EDF7B9BCE13F"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-HERITAGE-02.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-HERITAGE-02.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-07-24T10:41:43.383+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-CL2-2026-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "502184686144067"
+        ],
+        "callTitle": [
+          "Culture, Creativity and Inclusive Society 2026"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2026-05-13T06:20:06.534+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "Boosting creative startups for disruptive innovation. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-HERITAGE-02.json"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "502191056144064",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-06.json",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Governing global commons sustainably",
+      "weight": 33.940327,
+      "content": "Governing global commons sustainably",
+      "accessRestriction": false,
+      "checksum": "DA71DB68D13F342AFAD12DD6BFF1B2130755B6A40A97A7AB1DAD10CFE4F40FA6",
+      "metadata": {
+        "identifier": [
+          "HORIZON-CL2-2026-01-DEMOCRACY-06"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2026-05-13T06:20:06.489+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2026-05-13T08:20:13.379+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-07-24T10:41:41.799+0200"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-CL2-2026-01-DEMOCRACY-06, HORIZON-CL2-2026-01-TRANSFO-09, HORIZON-CL2-2026-01-DEMOCRACY-03, HORIZON-CL2-2026-01-HERITAGE-02, HORIZON-CL2-2026-01-DEMOCRACY-01, HORIZON-CL2-2026-01-TRANSFO-08, HORIZON-CL2-2026-01-HERITAGE-07, HORIZON-CL2-2026-01-DEMOCRACY-02, HORIZON-CL2-2026-01-TRANSFO-10, HORIZON-CL2-2026-01-TRANSFO-02, HORIZON-CL2-2026-01-DEMOCRACY-07, HORIZON-CL2-2026-01-TRANSFO-03, HORIZON-CL2-2026-01-TRANSFO-04, HORIZON-CL2-2026-01-HERITAGE-06, HORIZON-CL2-2026-01-DEMOCRACY-10, HORIZON-CL2-2026-01-DEMOCRACY-08, HORIZON-CL2-2026-01-DEMOCRACY-05, HORIZON-CL2-2026-01-HERITAGE-05, HORIZON-CL2-2026-01-HERITAGE-03, HORIZON-CL2-2026-01-HERITAGE-04, HORIZON-CL2-2026-01-HERITAGE-01, HORIZON-CL2-2026-01-DEMOCRACY-09, HORIZON-CL2-2026-01-TRANSFO-07, HORIZON-CL2-2026-01-TRANSFO-06, HORIZON-CL2-2026-01-TRANSFO-05, HORIZON-CL2-2026-01-DEMOCRACY-04"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Governing global commons sustainably"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "DA71DB68D13F342AFAD12DD6BFF1B2130755B6A40A97A7AB1DAD10CFE4F40FA6"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-06.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-06.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-07-24T10:41:41.785+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-CL2-2026-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "502191056144064"
+        ],
+        "callTitle": [
+          "Culture, Creativity and Inclusive Society 2026"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2026-05-13T06:20:06.489+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "Governing global commons sustainably. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-06.json"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "502187346144065",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-09.json",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Rethinking long-term care policy in the face of EU demographic shifts",
+      "weight": 33.940327,
+      "content": "Rethinking long-term care policy in the face of EU demographic shifts",
+      "accessRestriction": false,
+      "checksum": "BD2A3A68991A7C2412D549246DFEAFA1F3317B9A8C8A51383306CCCCCA8467CE",
+      "metadata": {
+        "identifier": [
+          "HORIZON-CL2-2026-01-TRANSFO-09"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2026-05-13T06:20:06.530+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2026-05-13T08:20:13.804+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-07-24T10:41:42.311+0200"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-CL2-2026-01-DEMOCRACY-06, HORIZON-CL2-2026-01-TRANSFO-09, HORIZON-CL2-2026-01-DEMOCRACY-03, HORIZON-CL2-2026-01-HERITAGE-02, HORIZON-CL2-2026-01-DEMOCRACY-01, HORIZON-CL2-2026-01-TRANSFO-08, HORIZON-CL2-2026-01-HERITAGE-07, HORIZON-CL2-2026-01-DEMOCRACY-02, HORIZON-CL2-2026-01-TRANSFO-10, HORIZON-CL2-2026-01-TRANSFO-02, HORIZON-CL2-2026-01-DEMOCRACY-07, HORIZON-CL2-2026-01-TRANSFO-03, HORIZON-CL2-2026-01-TRANSFO-04, HORIZON-CL2-2026-01-HERITAGE-06, HORIZON-CL2-2026-01-DEMOCRACY-10, HORIZON-CL2-2026-01-DEMOCRACY-08, HORIZON-CL2-2026-01-DEMOCRACY-05, HORIZON-CL2-2026-01-HERITAGE-05, HORIZON-CL2-2026-01-HERITAGE-03, HORIZON-CL2-2026-01-HERITAGE-04, HORIZON-CL2-2026-01-HERITAGE-01, HORIZON-CL2-2026-01-DEMOCRACY-09, HORIZON-CL2-2026-01-TRANSFO-07, HORIZON-CL2-2026-01-TRANSFO-06, HORIZON-CL2-2026-01-TRANSFO-05, HORIZON-CL2-2026-01-DEMOCRACY-04"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Rethinking long-term care policy in the face of EU demographic shifts"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "BD2A3A68991A7C2412D549246DFEAFA1F3317B9A8C8A51383306CCCCCA8467CE"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-09.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-09.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-07-24T10:41:42.295+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-CL2-2026-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "502187346144065"
+        ],
+        "callTitle": [
+          "Culture, Creativity and Inclusive Society 2026"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2026-05-13T06:20:06.530+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "Rethinking long-term care policy in the face of EU demographic shifts. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-09.json"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "502193996144070",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-HERITAGE-07.json",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Preventing and fighting illicit trafficking of cultural goods",
+      "weight": 33.940327,
+      "content": "Preventing and fighting illicit trafficking of cultural goods",
+      "accessRestriction": false,
+      "checksum": "F9AA6218702745A3F5A6C32DD965E59F874F5879FDC911889E3150C04C63F535",
+      "metadata": {
+        "identifier": [
+          "HORIZON-CL2-2026-01-HERITAGE-07"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2026-05-13T06:20:06.538+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2026-05-13T08:20:18.116+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-07-24T10:41:54.287+0200"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-CL2-2026-01-DEMOCRACY-06, HORIZON-CL2-2026-01-TRANSFO-09, HORIZON-CL2-2026-01-DEMOCRACY-03, HORIZON-CL2-2026-01-HERITAGE-02, HORIZON-CL2-2026-01-DEMOCRACY-01, HORIZON-CL2-2026-01-TRANSFO-08, HORIZON-CL2-2026-01-HERITAGE-07, HORIZON-CL2-2026-01-DEMOCRACY-02, HORIZON-CL2-2026-01-TRANSFO-10, HORIZON-CL2-2026-01-TRANSFO-02, HORIZON-CL2-2026-01-DEMOCRACY-07, HORIZON-CL2-2026-01-TRANSFO-03, HORIZON-CL2-2026-01-TRANSFO-04, HORIZON-CL2-2026-01-HERITAGE-06, HORIZON-CL2-2026-01-DEMOCRACY-10, HORIZON-CL2-2026-01-DEMOCRACY-08, HORIZON-CL2-2026-01-DEMOCRACY-05, HORIZON-CL2-2026-01-HERITAGE-05, HORIZON-CL2-2026-01-HERITAGE-03, HORIZON-CL2-2026-01-HERITAGE-04, HORIZON-CL2-2026-01-HERITAGE-01, HORIZON-CL2-2026-01-DEMOCRACY-09, HORIZON-CL2-2026-01-TRANSFO-07, HORIZON-CL2-2026-01-TRANSFO-06, HORIZON-CL2-2026-01-TRANSFO-05, HORIZON-CL2-2026-01-DEMOCRACY-04"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Preventing and fighting illicit trafficking of cultural goods"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "F9AA6218702745A3F5A6C32DD965E59F874F5879FDC911889E3150C04C63F535"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-HERITAGE-07.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-HERITAGE-07.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-07-24T10:41:54.270+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-CL2-2026-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "502193996144070"
+        ],
+        "callTitle": [
+          "Culture, Creativity and Inclusive Society 2026"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2026-05-13T06:20:06.538+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "Preventing and fighting illicit trafficking of cultural goods. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-HERITAGE-07.json"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "502190036144071",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-02.json",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Understanding the forms of local democracy in low-income and low-middle income countries",
+      "weight": 33.940327,
+      "content": "Understanding the forms of local <b>democracy</b> in low-income and low-middle income countries",
+      "accessRestriction": false,
+      "checksum": "E3C8C508E10BE772FD08AB92C400675457A08B17D167DD19188A7509166E30E4",
+      "metadata": {
+        "identifier": [
+          "HORIZON-CL2-2026-01-DEMOCRACY-02"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2026-05-13T06:20:06.540+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2026-05-13T08:20:18.479+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-07-24T10:41:54.732+0200"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-CL2-2026-01-DEMOCRACY-06, HORIZON-CL2-2026-01-TRANSFO-09, HORIZON-CL2-2026-01-DEMOCRACY-03, HORIZON-CL2-2026-01-HERITAGE-02, HORIZON-CL2-2026-01-DEMOCRACY-01, HORIZON-CL2-2026-01-TRANSFO-08, HORIZON-CL2-2026-01-HERITAGE-07, HORIZON-CL2-2026-01-DEMOCRACY-02, HORIZON-CL2-2026-01-TRANSFO-10, HORIZON-CL2-2026-01-TRANSFO-02, HORIZON-CL2-2026-01-DEMOCRACY-07, HORIZON-CL2-2026-01-TRANSFO-03, HORIZON-CL2-2026-01-TRANSFO-04, HORIZON-CL2-2026-01-HERITAGE-06, HORIZON-CL2-2026-01-DEMOCRACY-10, HORIZON-CL2-2026-01-DEMOCRACY-08, HORIZON-CL2-2026-01-DEMOCRACY-05, HORIZON-CL2-2026-01-HERITAGE-05, HORIZON-CL2-2026-01-HERITAGE-03, HORIZON-CL2-2026-01-HERITAGE-04, HORIZON-CL2-2026-01-HERITAGE-01, HORIZON-CL2-2026-01-DEMOCRACY-09, HORIZON-CL2-2026-01-TRANSFO-07, HORIZON-CL2-2026-01-TRANSFO-06, HORIZON-CL2-2026-01-TRANSFO-05, HORIZON-CL2-2026-01-DEMOCRACY-04"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Understanding the forms of local democracy in low-income and low-middle income countries"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "E3C8C508E10BE772FD08AB92C400675457A08B17D167DD19188A7509166E30E4"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-02.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-02.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-07-24T10:41:54.714+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-CL2-2026-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "502190036144071"
+        ],
+        "callTitle": [
+          "Culture, Creativity and Inclusive Society 2026"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2026-05-13T06:20:06.540+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Understanding the forms of local <b>democracy</b> in low-income and low-middle income countries"
+      ],
+      "citation": "Understanding the forms of local democracy in low-income and low-middle income countries. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-02.json"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "502193326144073",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-02.json",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Open topic: Strengthen Europe's social model and sustainable competitiveness through productivity",
+      "weight": 33.940327,
+      "content": "Open topic: Strengthen Europe's social model and sustainable competitiveness through productivity",
+      "accessRestriction": false,
+      "checksum": "040BF438C059444FC5DAB9131E1548792592450B89715FFE7B55CB4164B4188C",
+      "metadata": {
+        "identifier": [
+          "HORIZON-CL2-2026-01-TRANSFO-02"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2026-05-13T06:20:06.542+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2026-05-13T08:20:19.018+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-07-24T10:41:55.686+0200"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-CL2-2026-01-DEMOCRACY-06, HORIZON-CL2-2026-01-TRANSFO-09, HORIZON-CL2-2026-01-DEMOCRACY-03, HORIZON-CL2-2026-01-HERITAGE-02, HORIZON-CL2-2026-01-DEMOCRACY-01, HORIZON-CL2-2026-01-TRANSFO-08, HORIZON-CL2-2026-01-HERITAGE-07, HORIZON-CL2-2026-01-DEMOCRACY-02, HORIZON-CL2-2026-01-TRANSFO-10, HORIZON-CL2-2026-01-TRANSFO-02, HORIZON-CL2-2026-01-DEMOCRACY-07, HORIZON-CL2-2026-01-TRANSFO-03, HORIZON-CL2-2026-01-TRANSFO-04, HORIZON-CL2-2026-01-HERITAGE-06, HORIZON-CL2-2026-01-DEMOCRACY-10, HORIZON-CL2-2026-01-DEMOCRACY-08, HORIZON-CL2-2026-01-DEMOCRACY-05, HORIZON-CL2-2026-01-HERITAGE-05, HORIZON-CL2-2026-01-HERITAGE-03, HORIZON-CL2-2026-01-HERITAGE-04, HORIZON-CL2-2026-01-HERITAGE-01, HORIZON-CL2-2026-01-DEMOCRACY-09, HORIZON-CL2-2026-01-TRANSFO-07, HORIZON-CL2-2026-01-TRANSFO-06, HORIZON-CL2-2026-01-TRANSFO-05, HORIZON-CL2-2026-01-DEMOCRACY-04"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Open topic: Strengthen Europe's social model and sustainable competitiveness through productivity"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "040BF438C059444FC5DAB9131E1548792592450B89715FFE7B55CB4164B4188C"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-02.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-02.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-07-24T10:41:55.668+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-CL2-2026-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "502193326144073"
+        ],
+        "callTitle": [
+          "Culture, Creativity and Inclusive Society 2026"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2026-05-13T06:20:06.542+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "Open topic: Strengthen Europe's social model and sustainable competitiveness through productivity. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-02.json"
+    }
+  ],
+  "warnings": []
+}

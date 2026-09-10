@@ -1,0 +1,12 @@
+{
+  "company_name": "Example Technology Company",
+  "country": "Türkiye",
+  "sector": "clean energy and digital technology",
+  "sectors": ["renewable energy", "software", "industrial technology"],
+  "technologies": ["data", "artificial intelligence", "energy efficiency"],
+  "keywords": ["digitalisation", "innovation", "research and development"],
+  "employees": 25,
+  "trl_level": 6,
+  "annual_budget_eur": 500000,
+  "has_gep": false
+}

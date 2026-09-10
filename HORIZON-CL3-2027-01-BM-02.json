@@ -1,0 +1,1055 @@
+{
+  "apiVersion": "2.154",
+  "terms": "HORIZON-CL3-2027-01-BM-02",
+  "responseTime": 90,
+  "totalResults": 646664,
+  "pageNumber": 1,
+  "pageSize": 10,
+  "sort": "relevance",
+  "groupByField": "sortStatus",
+  "queryLanguage": {
+    "language": "en",
+    "probability": 0.0
+  },
+  "spellingSuggestion": "horizon cl3 2027 01 bm 02",
+  "bestBets": [],
+  "results": [
+    {
+      "apiVersion": "2.154",
+      "reference": "HORIZON-CL3-2021-BM-011625004009038",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "",
+      "summary": "",
+      "weight": 42.46809,
+      "content": "",
+      "accessRestriction": false,
+      "metadata": {
+        "identifier": [],
+        "caName": [
+          "Border Management 2021"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "keywords": [
+          "The submission session is now available for: HORIZON-CL3-2021-BM-01-04(HORIZON-RIA), HORIZON-CL3-2021-BM-01-02(HORIZON-CSA), HORIZON-CL3-2021-BM-01-01(HORIZON-IA), HORIZON-CL3-2021-BM-01-03(HORIZON-IA), HORIZON-CL3-2021-BM-01-05(HORIZON-IA)"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2021-11-25T18:10:30.030+0000"
+        ],
+        "language": [
+          "en"
+        ],
+        "type": [
+          "6"
+        ],
+        "title": [],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+        ],
+        "corporate-search-version": [
+          "102"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+        ],
+        "esDA_QueueDate": [
+          "2021-11-25T17:36:09.856+0000"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-CL3-2021-BM-01"
+        ],
+        "datasource": [
+          "SEDIA_PRD_CENTRICITY"
+        ],
+        "DATASOURCE": [
+          "SEDIA_PRD_CENTRICITY"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2021-06-29T22:00:09.038+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "Available at: https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "HORIZON-CL3-2022-BM-011656540000837",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "",
+      "summary": "",
+      "weight": 42.46809,
+      "content": "",
+      "accessRestriction": false,
+      "metadata": {
+        "identifier": [],
+        "caName": [
+          "Border Management 2022"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "keywords": [
+          "The submission session is now available for: HORIZON-CL3-2022-BM-01-03(HORIZON-IA), HORIZON-CL3-2022-BM-01-01(HORIZON-RIA), HORIZON-CL3-2022-BM-01-02(HORIZON-IA), HORIZON-CL3-2022-BM-01-04(HORIZON-RIA), HORIZON-CL3-2022-BM-01-05(HORIZON-IA)"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2022-06-30T00:01:17.149+0200"
+        ],
+        "language": [
+          "en"
+        ],
+        "type": [
+          "6"
+        ],
+        "title": [],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+        ],
+        "corporate-search-version": [
+          "102"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+        ],
+        "esDA_QueueDate": [
+          "2022-06-30T00:01:06.251+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-CL3-2022-BM-01"
+        ],
+        "datasource": [
+          "SEDIA_PRD_CENTRICITY"
+        ],
+        "DATASOURCE": [
+          "SEDIA_PRD_CENTRICITY"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2022-06-29T22:00:00.837+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "Available at: https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "952562408",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/952562408",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "",
+      "summary": "FONDAZIONE EUROPEAN RESEARCH INSTITUTE ETS",
+      "weight": 40.344116,
+      "content": "FONDAZIONE EUROPEAN RESEARCH INSTITUTE ETS",
+      "accessRestriction": false,
+      "checksum": "F8956FF0C9CE0E3860DED3A1D59E43C54045F2B2E62D8C5C4327563A98F5184D",
+      "metadata": {
+        "esST_programmes": [
+          "43251447",
+          "31059093",
+          "43251589",
+          "31082527",
+          "43298203",
+          "43353764",
+          "43637601",
+          "43108390",
+          "43252405",
+          "43251814"
+        ],
+        "es_SortDate": [
+          "2026-07-02T15:33:39.579+0200"
+        ],
+        "keywords": [
+          "HORIZON-NEB-2026-01-REGEN-01",
+          "HORIZON-NEB-2026-01-PARTICIPATION-01",
+          "HORIZON-NEB-2026-01-BUSINESS-01",
+          "HORIZON-NEB-2026-01-PARTICIPATION-02",
+          "HORIZON-NEB-2026-01-REGEN-02",
+          "HORIZON-NEB-2026-01-REGEN-03",
+          "HORIZON-NEB-2026-01-BUSINESS-02",
+          "HORIZON-NEB-2026-01-BUSINESS-03",
+          "HORIZON-NEB-2026-01-PARTICIPATION-03",
+          "Developing operational tools to facilitate emergency response",
+          "decision support system",
+          "marine pollution",
+          "numerical modelling",
+          "oil and chemical spills",
+          "air dispersion",
+          "spills and container tracking",
+          "awareness",
+          "irregular migration",
+          "pakistan",
+          "awareness campaign",
+          "civic participation",
+          "digital resilience",
+          "disinformation",
+          "emotional literacy",
+          "gamification",
+          "interactive learning platform",
+          "media literacy",
+          "online manipulation",
+          "youth empowerment"
+        ],
+        "esIN_city": [
+          "TORINO"
+        ],
+        "esST_organisationType": [
+          "31079047"
+        ],
+        "esST_legalEntityStatus": [
+          "LEGAL_PERSON"
+        ],
+        "language": [
+          "en"
+        ],
+        "esST_vat": [
+          "IT11421750016"
+        ],
+        "type": [
+          "ORGANISATION"
+        ],
+        "esST_checksum": [
+          "F8956FF0C9CE0E3860DED3A1D59E43C54045F2B2E62D8C5C4327563A98F5184D"
+        ],
+        "esIN_noOfPartnerSearch": [
+          "24"
+        ],
+        "esBI_tagsAndKeywords": [
+          "[{\"text\":\"HORIZON-NEB-2026-01-REGEN-01\",\"portalKeyword\":true,\"dbId\":103622,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-PARTICIPATION-01\",\"portalKeyword\":true,\"dbId\":103623,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-BUSINESS-01\",\"portalKeyword\":true,\"dbId\":103624,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-PARTICIPATION-02\",\"portalKeyword\":true,\"dbId\":103625,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-REGEN-02\",\"portalKeyword\":true,\"dbId\":103627,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-REGEN-03\",\"portalKeyword\":true,\"dbId\":103628,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-BUSINESS-02\",\"portalKeyword\":true,\"dbId\":103630,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-BUSINESS-03\",\"portalKeyword\":true,\"dbId\":103629,\"deleted\":false},{\"text\":\"HORIZON-NEB-2026-01-PARTICIPATION-03\",\"portalKeyword\":true,\"dbId\":103626,\"deleted\":false},{\"text\":\"Developing operational tools to facilitate emergency response\",\"portalKeyword\":false,\"odsKeywordId\":3717074,\"deleted\":false},{\"text\":\"decision support system\",\"portalKeyword\":false,\"odsKeywordId\":3717075,\"deleted\":false},{\"text\":\"marine pollution\",\"portalKeyword\":false,\"odsKeywordId\":3717076,\"deleted\":false},{\"text\":\"numerical modelling\",\"portalKeyword\":false,\"odsKeywordId\":3717077,\"deleted\":false},{\"text\":\"oil and chemical spills\",\"portalKeyword\":false,\"odsKeywordId\":3717078,\"deleted\":false},{\"text\":\"air dispersion\",\"portalKeyword\":false,\"odsKeywordId\":5246404,\"deleted\":false},{\"text\":\"spills and container tracking\",\"portalKeyword\":false,\"odsKeywordId\":5246405,\"deleted\":false},{\"text\":\"awareness\",\"portalKeyword\":false,\"odsKeywordId\":5335583,\"deleted\":false},{\"text\":\"irregular migration\",\"portalKeyword\":false,\"odsKeywordId\":5335584,\"deleted\":false},{\"text\":\"pakistan\",\"portalKeyword\":false,\"odsKeywordId\":5335585,\"deleted\":false},{\"text\":\"awareness campaign\",\"portalKeyword\":false,\"odsKeywordId\":6431838,\"deleted\":false},{\"text\":\"civic participation\",\"portalKeyword\":false,\"odsKeywordId\":6431839,\"deleted\":false},{\"text\":\"digital resilience\",\"portalKeyword\":false,\"odsKeywordId\":6431840,\"deleted\":false},{\"text\":\"disinformation\",\"portalKeyword\":false,\"odsKeywordId\":6431841,\"deleted\":false},{\"text\":\"emotional literacy\",\"portalKeyword\":false,\"odsKeywordId\":6431842,\"deleted\":false},{\"text\":\"gamification\",\"portalKeyword\":false,\"odsKeywordId\":6431843,\"deleted\":false},{\"text\":\"interactive learning platform\",\"portalKeyword\":false,\"odsKeywordId\":6431844,\"deleted\":false},{\"text\":\"media literacy\",\"portalKeyword\":false,\"odsKeywordId\":6431845,\"deleted\":false},{\"text\":\"online manipulation\",\"portalKeyword\":false,\"odsKeywordId\":6431846,\"deleted\":false},{\"text\":\"youth empowerment\",\"portalKeyword\":false,\"odsKeywordId\":6431847,\"deleted\":false}]"
+        ],
+        "esBI_consortiumRoles": [
+          "[{\"key\":\"BENEFICIARY\",\"value\":4},{\"key\":\"COORDINATOR\",\"value\":1}]"
+        ],
+        "esBO_partnerSearchEnabled": [
+          "true"
+        ],
+        "esIN_pic": [
+          "952562408"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "esDA_lastModified": [
+          "2026-07-02T15:33:39.464+0200"
+        ],
+        "DATASOURCE": [
+          "SEDIA_PERSON"
+        ],
+        "REFERENCE": [
+          "952562408"
+        ],
+        "esST_country": [
+          "20000922"
+        ],
+        "esIN_deprecatedPics": [],
+        "esIN_name": [
+          "FONDAZIONE EUROPEAN RESEARCH INSTITUTE ETS"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "esDA_FirstIngestDate": [
+          "2024-11-11T03:33:29.617+0100"
+        ],
+        "esDA_IngestDate": [
+          "2026-07-02T15:33:39.607+0200"
+        ],
+        "esIN_registrationNum": [
+          "97750340016"
+        ],
+        "esST_topics": [
+          "AMIF-2022-TF1-AG-INFO",
+          "CERV-2025-CITIZENS-CIV",
+          "UCPM-2019-PP-PREP-AG",
+          "UCPM-2022-PP",
+          "HORIZON-MISS-2025-03-OCEAN-02",
+          "HORIZON-CL6-2025-01-BIODIV-07",
+          "HORIZON-MISS-2025-03-OCEAN-04",
+          "HORIZON-CL6-2025-01-ZEROPOLLUTION-04",
+          "HORIZON-CL6-2025-01-BIODIV-09",
+          "HORIZON-MISS-2025-01-CLIMA-03",
+          "HORIZON-CL6-2025-01-BIODIV-02",
+          "HORIZON-CL6-2025-01-BIODIV-01",
+          "LIFE-2025-SAP-NAT-NATURE",
+          "HORIZON-CL5-2026-02-D4-03",
+          "HORIZON-CL6-2025-02-FARM2FORK-05-two-stage",
+          "LIFE-2025-SAP-ENV-ENVIRONMENT",
+          "HORIZON-CL6-2025-02-FARM2FORK-16",
+          "HORIZON-CL3-2025-01-DRS-01",
+          "HORIZON-CL6-2025-02-COMMUNITIES-03",
+          "CERV-2025-EQUAL-ANTIMUSLIM",
+          "HORIZON-CL5-2026-02-D3-08",
+          "ERASMUS-SPORT-2026-SCP",
+          "CREA-CROSS-2026-MEDIALITERACY",
+          "PPPA-2025-DISINFORMATION-YOUNG",
+          "HORIZON-CL3-2026-01-DRS-05"
+        ],
+        "esBI_publicProjects": [
+          "[{\"program\":{\"id\":\"43251447\",\"abbreviation\":\"AMIF2027\",\"classId\":\"FPDivision\",\"context\":\"AMIF2027\",\"description\":\"Asylum, Migration and Integration Fund (AMIF)\"},\"number\":\"101102180\",\"dg\":\"HOME\",\"internalId\":283541,\"call\":{\"id\":\"44808411\",\"abbreviation\":\"AMIF-2022-TF1-AG-INFO\",\"classId\":\"Call\",\"context\":\"AMIF2027\",\"description\":\"Prevention of irregular migration through awareness raising and information campaigns on the risks of irregular migration in selected third countries and within Europe\"},\"acronym\":\"SAFER\",\"title\":\"Safe and legAl alternatives for Pakistani potEntial migrants and migrants on the Route\",\"phase\":\"Archive\",\"status\":\"Signed\",\"topic\":{\"id\":\"44808311\",\"abbreviation\":\"AMIF-2022-TF1-AG-INFO\",\"classId\":\"FPDivision\",\"context\":\"AMIF2027\",\"description\":\"Information and awareness raising campaigns on the risks of irregular migration in third countries and within Europe\"},\"fundingScheme\":{\"id\":\"43248975\",\"abbreviation\":\"AMIF-PJG\",\"classId\":\"Instrument\",\"context\":\"AMIF2027\",\"description\":\"AMIF Project Grants\"},\"subFundingScheme\":{\"id\":\"43248984\",\"abbreviation\":\"AMIF-AG\",\"classId\":\"ProjectType\",\"context\":\"AMIF2027\",\"description\":\"AMIF Action Grant Budget-Based\"},\"actions\":[\"ACCESS_SYGMA_DASHBOARD\"],\"businessIdentifier\":\"101102180\",\"duration\":0},{\"program\":{\"id\":\"31059093\",\"abbreviation\":\"EPLUS\",\"classId\":\"FPDivision\",\"context\":\"EPLUS\",\"description\":\"Erasmus+ Programme\"},\"number\":\"400617534\",\"dg\":\"EACEA\",\"internalId\":240711,\"call\":{\"id\":\"42626722\",\"abbreviation\":\"EAC-A02-2019-CBY\",\"classId\":\"Call\",\"context\":\"EPLUS\",\"description\":\"ERASMUS+ Call for proposals 2020\"},\"acronym\":\"Youth PURPOSE: Preparedness of YoUngsters, ResPonse, RecOvery, Solidarity, and VoluntEering in Times of Crises\",\"title\":\"Youth PURPOSE: Preparedness of YoUngsters, ResPonse, RecOvery, Solidarity, and VoluntEering in Times of Crises\",\"phase\":\"Grant Management\",\"status\":\"Signed\",\"actions\":[\"NO_PROJECT_MINI_DASHBOARD\"],\"businessIdentifier\":\"617534\",\"duration\":0},{\"program\":{\"id\":\"43251589\",\"abbreviation\":\"CERV\",\"classId\":\"FPDivision\",\"context\":\"CERV\",\"description\":\"Citizens, Equality, Rights and Values Programme (CERV)\"},\"number\":\"101253416\",\"dg\":\"EACEA\",\"internalId\":344518,\"call\":{\"id\":\"47621274\",\"abbreviation\":\"CERV-2025-CITIZENS-CIV\",\"classId\":\"Call\",\"context\":\"CERV\",\"description\":\"Citizens’ engagement and participation\"},\"acronym\":\"EMERGE\",\"title\":\"Enhancing Media and Emotional Resilience to Guard Democracy in Europe\",\"phase\":\"Grant Management\",\"status\":\"Signed\",\"topic\":{\"id\":\"47621211\",\"abbreviation\":\"CERV-2025-CITIZENS-CIV\",\"classId\":\"FPDivision\",\"context\":\"CERV\",\"description\":\"Citizens’ engagement and participation\"},\"fundingScheme\":{\"id\":\"43249808\",\"abbreviation\":\"CERV-LS\",\"classId\":\"Instrument\",\"context\":\"CERV\",\"description\":\"CERV Lump Sum Grants\"},\"subFundingScheme\":{\"id\":\"43249821\",\"abbreviation\":\"CERV-AG-LS\",\"classId\":\"ProjectType\",\"context\":\"CERV\",\"description\":\"CERV Lump Sum Grant\"},\"actions\":[\"ACCESS_SYGMA_DASHBOARD\"],\"businessIdentifier\":\"101253416\",\"duration\":0},{\"program\":{\"id\":\"31082527\",\"abbreviation\":\"UCPM\",\"classId\":\"FPDivision\",\"context\":\"UCPM\",\"description\":\"Union Civil Protection Mechanism\"},\"number\":\"874439\",\"dg\":\"ECHO\",\"internalId\":224025,\"call\":{\"id\":\"31103250\",\"abbreviation\":\"UCPM-2019-PP-AG\",\"classId\":\"Call\",\"context\":\"UCPM\",\"description\":\"Prevention and preparedness in civil protection and marine pollution\"},\"acronym\":\"Be-Ready\",\"title\":\"BEst Rapid Environmental Assessment Decision sYstem\",\"phase\":\"Archive\",\"status\":\"Signed\",\"topic\":{\"id\":\"31103247\",\"abbreviation\":\"UCPM-2019-PP-PREP-AG\",\"classId\":\"FPDivision\",\"context\":\"UCPM\",\"description\":\"Preparedness in civil protection and marine pollution\"},\"fundingScheme\":{\"id\":\"31082508\",\"abbreviation\":\"UCPM-EXT-AG\",\"classId\":\"Instrument\",\"context\":\"UCPM\",\"description\":\"UCPM External Action Grant\"},\"subFundingScheme\":{\"id\":\"31082508\",\"abbreviation\":\"UCPM-EXT-AG\",\"classId\":\"Instrument\",\"context\":\"UCPM\",\"description\":\"UCPM External Action Grant\"},\"actions\":[\"ACCESS_SYGMA_DASHBOARD\"],\"businessIdentifier\":\"874439\",\"duration\":0},{\"program\":{\"id\":\"43298203\",\"abbreviation\":\"UCPM2027\",\"classId\":\"FPDivision\",\"context\":\"UCPM2027\",\"description\":\"Union Civil Protection Mechanism (UCPM)\"},\"number\":\"101101263\",\"dg\":\"ECHO\",\"internalId\":277988,\"call\":{\"id\":\"44773940\",\"abbreviation\":\"UCPM-2022-PP\",\"classId\":\"Call\",\"context\":\"UCPM2027\",\"description\":\"Prevention and Preparedness Projects on Civil Protection and Marine Pollution\"},\"acronym\":\"PROMPT\",\"title\":\"PReparedness for Operational Monitoring and Prediction of contaminant Transport in the Sea\",\"phase\":\"Archive\",\"status\":\"Signed\",\"topic\":{\"id\":\"44773929\",\"abbreviation\":\"UCPM-2022-PP\",\"classId\":\"FPDivision\",\"context\":\"UCPM2027\",\"description\":\"Cross-Border Risks and Marine Pollution\"},\"fundingScheme\":{\"id\":\"43251279\",\"abbreviation\":\"UCPM-PJG\",\"classId\":\"Instrument\",\"context\":\"UCPM2027\",\"description\":\"UCPM Project Grants\"},\"subFundingScheme\":{\"id\":\"43251282\",\"abbreviation\":\"UCPM-AG\",\"classId\":\"ProjectType\",\"context\":\"UCPM2027\",\"description\":\"UCPM Action Grant Budget-Based\"},\"actions\":[\"ACCESS_SYGMA_DASHBOARD\"],\"businessIdentifier\":\"101101263\",\"duration\":0}]"
+        ],
+        "esBI_mainCollaborations": [
+          "[{\"pic\":\"999976687\",\"organisationLegalName\":\"UNIVERSITA DEGLI STUDI DI GENOVA\",\"organisationBusinessName\":\"UNIGE\",\"address\":{\"street\":\"VIA BALBI 5\",\"postalCode\":\"16126\",\"city\":\"GENOVA\",\"country\":{\"id\":\"20000922\",\"abbreviation\":\"IT\",\"description\":\"Italy\"},\"latitude\":44.4165869,\"longitude\":8.9236437},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"erasmusInstitutionCode\":\"I  GENOVA01\",\"organisationClassificationType\":{\"id\":\"31079050\",\"abbreviation\":\"HSE\",\"description\":\"Higher or secondary education establishment\"},\"value\":2},{\"pic\":\"997223342\",\"organisationLegalName\":\"UNIVERSITY OF JORDAN\",\"organisationBusinessName\":\"UJ\",\"address\":{\"street\":\"QUEEN RANIA AL ABDULLAH STREET\",\"poBox\":\"13042\",\"postalCode\":\"11942\",\"city\":\"Amman\",\"country\":{\"id\":\"20000924\",\"abbreviation\":\"JO\",\"description\":\"Jordan\"},\"latitude\":31.9515694,\"longitude\":35.9239625},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079050\",\"abbreviation\":\"HSE\",\"description\":\"Higher or secondary education establishment\"},\"value\":2},{\"pic\":\"906155862\",\"organisationLegalName\":\"OFFICE D\\u0027EXPLOITATION DU PORT DE TRIPOLI\",\"organisationBusinessName\":\"OEPT\",\"address\":{\"street\":\"PORT STREET EL MINA\",\"postalCode\":\"000\",\"city\":\"TRIPOLI\",\"country\":{\"id\":\"20000938\",\"abbreviation\":\"LB\",\"description\":\"Lebanon\"},\"latitude\":34.4348667,\"longitude\":35.8415463},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079053\",\"abbreviation\":\"Public Organisation\",\"description\":\"Public organisation\"},\"value\":2},{\"pic\":\"941752728\",\"organisationLegalName\":\"FUNDACION INSTITUTO DE HIDRAULICA AMBIENTAL DE CANTABRIA\",\"organisationBusinessName\":\"FIHAC\",\"address\":{\"street\":\"CALLE ISABEL TORRES 15 PARQUE CIENTIFICO Y TECNOLOGICO DE SANTA\",\"postalCode\":\"39011\",\"city\":\"SANTANDER\",\"country\":{\"id\":\"20000883\",\"abbreviation\":\"ES\",\"description\":\"Spain\"},\"latitude\":43.45273555,\"longitude\":-3.872547498322684},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079051\",\"abbreviation\":\"Research Organisation\",\"description\":\"Research Organisation\"},\"value\":2},{\"pic\":\"999887641\",\"organisationLegalName\":\"SOFIA UNIVERSITY ST KLIMENT OHRIDSKI\",\"organisationBusinessName\":\"UNISOFIA\",\"address\":{\"street\":\"BUL TZAR OSVOBODITEL 15\",\"postalCode\":\"1504\",\"city\":\"SOFIA\",\"country\":{\"id\":\"20000841\",\"abbreviation\":\"BG\",\"description\":\"Bulgaria\"},\"latitude\":42.6409324,\"longitude\":23.97589671895739},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"erasmusInstitutionCode\":\"BG SOFIA06\",\"organisationClassificationType\":{\"id\":\"31079050\",\"abbreviation\":\"HSE\",\"description\":\"Higher or secondary education establishment\"},\"value\":1},{\"pic\":\"896649668\",\"organisationLegalName\":\"YOUNG MEN\\u0027S CHRISTIAN ASSOCIATION OF ETHIOPIA\",\"address\":{\"street\":\"KIRKOS SUB CITY WEREDA 3 HOUSE 593\",\"poBox\":\"34340\",\"city\":\"ADDIS ABABA\",\"country\":{\"id\":\"20000884\",\"abbreviation\":\"ET\",\"description\":\"Ethiopia\"},\"latitude\":9.0107934,\"longitude\":38.7612525},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"944467661\",\"organisationLegalName\":\"YOUTH ALLIANCE - KRUSEVO\",\"organisationBusinessName\":\"YAK\",\"address\":{\"street\":\"STR MISE EFTIM 1A\",\"postalCode\":\"7550\",\"city\":\"KRUSEVO\",\"country\":{\"id\":\"20000952\",\"abbreviation\":\"MK\",\"description\":\"North Macedonia\"},\"latitude\":33.41151,\"longitude\":-94.126336},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"918215775\",\"organisationLegalName\":\"YOUNG AFRICA (NAMIBIA) TRUST\",\"organisationBusinessName\":\"YOUNG AFRICA NAMIBIA\",\"address\":{\"street\":\"15, 11TH STREET NORTH, MEERSIG\",\"poBox\":\"4783\",\"city\":\"WALVIS BAY\",\"country\":{\"id\":\"20000967\",\"abbreviation\":\"NA\",\"description\":\"Namibia\"},\"latitude\":0.0,\"longitude\":0.0},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"909174502\",\"organisationLegalName\":\"STICHTING DARE TO BE GREY\",\"organisationBusinessName\":\"DtbG\",\"address\":{\"street\":\"CASTELLUM 1\",\"postalCode\":\"2652 HZ\",\"city\":\"BERKEL EN RODENRIJS\",\"country\":{\"id\":\"20000973\",\"abbreviation\":\"NL\",\"description\":\"Netherlands\"},\"latitude\":51.9849402,\"longitude\":4.4617625},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"905907542\",\"organisationLegalName\":\"PM TEN SOCIETA A RESPONSABILITA LIMITATA\",\"address\":{\"street\":\"PIAZZA DELLA VITTORIA 7/14\",\"postalCode\":\"16121\",\"city\":\"GENOA\",\"country\":{\"id\":\"20000922\",\"abbreviation\":\"IT\",\"description\":\"Italy\"},\"latitude\":44.4036932,\"longitude\":8.9442178},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079052\",\"abbreviation\":\"Private for profit organisation\",\"description\":\"Private for profit organisation\"},\"value\":1},{\"pic\":\"929729675\",\"organisationLegalName\":\"FONDACIJA ANA I VLADE DIVAC\",\"organisationBusinessName\":\"FOUNDATION ANA AND VLADE DIVAC\",\"address\":{\"street\":\"ILIJE GARASANINA 53 A 7\",\"postalCode\":\"11000\",\"city\":\"BEOGRAD\",\"country\":{\"id\":\"20001057\",\"abbreviation\":\"RS\",\"description\":\"Serbia\"},\"latitude\":44.8178131,\"longitude\":20.4568974},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"913081953\",\"organisationLegalName\":\"YAYASAN 2030 PRAPTA NUSA\",\"organisationBusinessName\":\"2030 Youth Force Indonesia\",\"address\":{\"street\":\"JI PINUS PATULA PINE FOREST SENTUL CITY 16 CIJAYAN BABAKAN MADANG\",\"postalCode\":\"16810\",\"city\":\"BOGOR\",\"country\":{\"id\":\"20000914\",\"abbreviation\":\"ID\",\"description\":\"Indonesia\"},\"latitude\":-6.549444,\"longitude\":106.898889},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"944654774\",\"organisationLegalName\":\"CENTRO PER LO SVILUPPO CREATIVO DANILO DOLCI - ENTE DEL TERZO SETTORE\",\"organisationBusinessName\":\"CSC DANILO DOLCI ETS\",\"address\":{\"street\":\"VIA ROMA 94\",\"postalCode\":\"90133\",\"city\":\"PALERMO\",\"country\":{\"id\":\"20000922\",\"abbreviation\":\"IT\",\"description\":\"Italy\"},\"latitude\":38.1143451,\"longitude\":13.356007192900748},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"923939357\",\"organisationLegalName\":\"CONG TY CO PHAN PHAT TRIEN VIEC LAMTHANH THIEU NIEN VA XA HOI YESD\",\"organisationBusinessName\":\"YOUTH EMPLOYMENT AND SOCIETY DEVELOPMENT JOINT STOCK COMPANY\",\"address\":{\"street\":\"35C SUBLANE 70/29 KHUONG HA STREET KHUONG DINH WAR THANH XUAN DISTRICT\",\"postalCode\":\"100000\",\"city\":\"HANOI\",\"country\":{\"id\":\"20001042\",\"abbreviation\":\"VN\",\"description\":\"Viet Nam\"},\"latitude\":21.049773899999998,\"longitude\":105.83995117684378},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079052\",\"abbreviation\":\"Private for profit organisation\",\"description\":\"Private for profit organisation\"},\"value\":1},{\"pic\":\"951205960\",\"organisationLegalName\":\"STICHTING RADIO LA BENEVOLENCIJA HUMANITARIAN TOOLS FOUNDATION\",\"organisationBusinessName\":\"RLB\",\"address\":{\"street\":\"NIEUWEZIJDS VOORBURGWAL 296\",\"postalCode\":\"1012 RT\",\"city\":\"AMSTERDAM\",\"country\":{\"id\":\"20000973\",\"abbreviation\":\"NL\",\"description\":\"Netherlands\"},\"latitude\":52.3706609,\"longitude\":4.8898409},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"892379728\",\"organisationLegalName\":\"RED NOVA CONNECTING  ACTIONS  DEFENDING  RIGHTS ETS\",\"organisationBusinessName\":\"RED NOVA - ETS\",\"address\":{\"street\":\"VIA SAN PIO V, 15\",\"postalCode\":\"10125\",\"city\":\"TORINO\",\"country\":{\"id\":\"20000922\",\"abbreviation\":\"IT\",\"description\":\"Italy\"},\"latitude\":45.0592898,\"longitude\":7.6857083},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079054\",\"abbreviation\":\"Other\",\"description\":\"Other\"},\"value\":1},{\"pic\":\"911875758\",\"organisationLegalName\":\"ATHENS LIFELONG LEARNING INSTITUTE ASTIKI MI KERDOSKOPIKI ETAIRIA\",\"organisationBusinessName\":\"ATHENS LIFELONG LEARNING INSTITUTE\",\"address\":{\"street\":\"KIFISIAS AVENUE 62\",\"postalCode\":\"151 25\",\"city\":\"MAROUSI\",\"country\":{\"id\":\"20000902\",\"abbreviation\":\"EL\",\"description\":\"Greece\"},\"latitude\":38.045574349999995,\"longitude\":23.805270162605616},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079051\",\"abbreviation\":\"Research Organisation\",\"description\":\"Research Organisation\"},\"value\":1},{\"pic\":\"969224486\",\"organisationLegalName\":\"KENTRO MERIMNAS OIKOGENEIAS KAI PAIDIOU\",\"organisationBusinessName\":\"FAMILY AND CHILD CARE CENTER KMOP\",\"address\":{\"street\":\"SKOUFA 75\",\"postalCode\":\"106 80\",\"city\":\"ATHINA\",\"country\":{\"id\":\"20000902\",\"abbreviation\":\"EL\",\"description\":\"Greece\"},\"latitude\":39.2243973,\"longitude\":21.601207},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"891594610\",\"organisationLegalName\":\"WASDI S.a r.l.\",\"address\":{\"street\":\"ROUTE DE VOLMERANGE 100\",\"postalCode\":\"3593\",\"city\":\"DUDELANGE\",\"country\":{\"id\":\"20000945\",\"abbreviation\":\"LU\",\"description\":\"Luxembourg\"},\"latitude\":49.4608835,\"longitude\":6.080896},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079052\",\"abbreviation\":\"Private for profit organisation\",\"description\":\"Private for profit organisation\"},\"value\":1},{\"pic\":\"882564686\",\"organisationLegalName\":\"EUth Verein für Europa-Bildung \\u0026 Partizipation\",\"organisationBusinessName\":\"EUth\",\"address\":{\"street\":\"Belvederegasse 39/Top 7\",\"postalCode\":\"1040\",\"city\":\"VIENNA\",\"country\":{\"id\":\"20000832\",\"abbreviation\":\"AT\",\"description\":\"Austria\"},\"latitude\":48.22240855,\"longitude\":16.393492612888146},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079054\",\"abbreviation\":\"Other\",\"description\":\"Other\"},\"value\":1},{\"pic\":\"905083042\",\"organisationLegalName\":\"ASOCIACIÓN EMPRESAS CON VALORES\",\"organisationBusinessName\":\"CON VALORES\",\"address\":{\"street\":\"C. MOLINA DEL PALAU, NUM 1, PLANTA 7, PUERTA 26\",\"postalCode\":\"46013\",\"city\":\"VALENCIA\",\"region\":\"COMUNIDAD VALENCIANA\",\"country\":{\"id\":\"20000883\",\"abbreviation\":\"ES\",\"description\":\"Spain\"},\"latitude\":39.3262345,\"longitude\":-4.8380649},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1},{\"pic\":\"947131475\",\"organisationLegalName\":\"OUT OF THE BOX INTERNATIONAL\",\"organisationBusinessName\":\"OUT OF THE BOX INTERNATIONAL\",\"address\":{\"street\":\"RUE D ANDERLECHT 107\",\"postalCode\":\"1000\",\"city\":\"BRUXELLES\",\"country\":{\"id\":\"20000839\",\"abbreviation\":\"BE\",\"description\":\"Belgium\"},\"latitude\":50.8454109,\"longitude\":4.3445588},\"validationStatus\":{\"id\":\"31042522\",\"abbreviation\":\"VALIDATED\",\"description\":\"the legal entity is validated according to validation service\"},\"organisationClassificationType\":{\"id\":\"31079047\",\"abbreviation\":\"NGO\",\"description\":\"Non-governmental organization\"},\"value\":1}]"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/952562408"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/952562408"
+        ],
+        "esDA_QueueDate": [
+          "2026-07-02T15:33:39.594+0200"
+        ],
+        "esIN_utroPic": [],
+        "esNU_noOfProjects": [
+          "5"
+        ],
+        "esIN_erasmusCode": [],
+        "esST_hasPartnerSearch": [
+          "true"
+        ],
+        "esST_validationStatus": [
+          "31042522"
+        ],
+        "esBI_workProgrammes": [
+          "[{\"key\":\"AMIF2027\",\"value\":1},{\"key\":\"CERV\",\"value\":1},{\"key\":\"EPLUS\",\"value\":1},{\"key\":\"UCPM\",\"value\":1},{\"key\":\"UCPM2027\",\"value\":1}]"
+        ],
+        "esIN_kohesioId": []
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "952562408. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/952562408"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "937424588",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/937424588",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "",
+      "summary": "EUNWA (European Neighbourhood Watch Association)",
+      "weight": 38.859165,
+      "content": "EUNWA (European Neighbourhood Watch Association)",
+      "accessRestriction": false,
+      "checksum": "0D1EC0B0099713809B75F213771309152F3F79D7A2DDCB0E932B3C4681CAEDE1",
+      "metadata": {
+        "es_SortDate": [
+          "2026-08-13T02:20:58.062+0200"
+        ],
+        "keywords": [
+          "HORIZON-CL3-2023-FCT-01",
+          "ECSELLENCE"
+        ],
+        "esIN_city": [
+          "Venice"
+        ],
+        "esST_organisationType": [
+          "31079047"
+        ],
+        "esST_legalEntityStatus": [
+          "LEGAL_PERSON"
+        ],
+        "language": [
+          "en"
+        ],
+        "esST_vat": [],
+        "type": [
+          "ORGANISATION"
+        ],
+        "esST_checksum": [
+          "0D1EC0B0099713809B75F213771309152F3F79D7A2DDCB0E932B3C4681CAEDE1"
+        ],
+        "esIN_noOfPartnerSearch": [
+          "0"
+        ],
+        "esBI_tagsAndKeywords": [
+          "[{\"text\":\"HORIZON-CL3-2023-FCT-01\",\"portalKeyword\":true,\"dbId\":64851,\"deleted\":false},{\"text\":\"ECSELLENCE\",\"portalKeyword\":true,\"dbId\":64852,\"deleted\":false}]"
+        ],
+        "esBO_partnerSearchEnabled": [
+          "true"
+        ],
+        "esIN_pic": [
+          "937424588"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "esDA_lastModified": [
+          "2026-08-13T02:20:57.991+0200"
+        ],
+        "DATASOURCE": [
+          "SEDIA_PERSON"
+        ],
+        "REFERENCE": [
+          "937424588"
+        ],
+        "esST_country": [
+          "20000922"
+        ],
+        "esIN_deprecatedPics": [],
+        "esIN_name": [
+          "EUNWA (European Neighbourhood Watch Association)"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "esDA_FirstIngestDate": [
+          "2024-12-17T05:13:15.256+0100"
+        ],
+        "esDA_IngestDate": [
+          "2026-08-13T02:20:58.075+0200"
+        ],
+        "esIN_registrationNum": [
+          "90194770278"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/937424588"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/937424588"
+        ],
+        "esDA_QueueDate": [
+          "2026-08-13T02:20:58.072+0200"
+        ],
+        "esIN_utroPic": [],
+        "esNU_noOfProjects": [
+          "0"
+        ],
+        "esIN_erasmusCode": [],
+        "esST_hasPartnerSearch": [
+          "false"
+        ],
+        "esST_validationStatus": [
+          "31042521"
+        ],
+        "esIN_kohesioId": []
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "937424588. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/937424588"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "16180",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq/16180",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "",
+      "summary": "In the scope of the calls HORIZON-CL3-2021-BM-01/02/03, it is stated that proposals are expected to engage with the Agency FRONTEX in the development of the project. Does this mean that FRONTEX must be a partner within the project consortium?",
+      "weight": 31.695772,
+      "content": "In the scope of the calls <b>HORIZON</b>-<b>CL3</b>-2021-<b>BM</b>-<b>01</b>/<b>02</b>/03, it is stated that proposals are expected to engage with the Agency FRONTEX in the development of the project. Does this mean that FRONTEX must be a partner within the project consortium?",
+      "accessRestriction": false,
+      "checksum": "BF13EB871A51AAB52BFA493904B5FCC10EEAAAF18BAC0981A58178745C3350B8",
+      "metadata": {
+        "es_SortDate": [
+          "2023-04-24T18:48:57.264+0200"
+        ],
+        "relatedFaqNodes": [
+          "[]"
+        ],
+        "esST_archivedDate": [],
+        "votesPercent": [
+          "[{\"yes\":0,\"no\":0}]"
+        ],
+        "esST_relatedFaqNodes": [
+          "[]"
+        ],
+        "nid": [
+          "16180"
+        ],
+        "language": [
+          "en"
+        ],
+        "type": [
+          "3"
+        ],
+        "esST_checksum": [
+          "BF13EB871A51AAB52BFA493904B5FCC10EEAAAF18BAC0981A58178745C3350B8"
+        ],
+        "esST_isTopTen": [
+          "false"
+        ],
+        "esST_categories": [
+          "p_submission_eval"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "DATASOURCE": [
+          "SEDIA_FAQ"
+        ],
+        "categories": [
+          "p_submission_eval"
+        ],
+        "keyword": [
+          "HORIZON-CL3-2021-BM-01",
+          "FRONTEX",
+          "InfoDay CL3",
+          "HORIZON-CL3-2021-BM-02",
+          "HORIZON-CL3-2021-BM-03"
+        ],
+        "shortAnswer": [
+          "As indicated in the work programme, and along the lines of the collaboration between the Commission and FRONTEX on border security research outlined in the published Terms of Referen..."
+        ],
+        "esST_shortAnswer": [
+          "As indicated in the work programme, and along the lines of the collaboration between the Commission and FRONTEX on border security research outlined in the published Terms of Referen..."
+        ],
+        "programme": [
+          "43108390"
+        ],
+        "publicationDate": [
+          "1628887440000"
+        ],
+        "esIN_keyword": [
+          "HORIZON-CL3-2021-BM-01",
+          "FRONTEX",
+          "InfoDay CL3",
+          "HORIZON-CL3-2021-BM-02",
+          "HORIZON-CL3-2021-BM-03"
+        ],
+        "archivedDate": [],
+        "period": [
+          "2021 - 2027"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "esST_votesPercent": [
+          "[{\"yes\":0,\"no\":0}]"
+        ],
+        "question": [
+          "In the scope of the calls HORIZON-CL3-2021-BM-01/02/03, it is stated that proposals are expected to engage with the Agency FRONTEX in the development of the project. Does this mean that FRONTEX must be a partner within the project consortium?"
+        ],
+        "esDA_IngestDate": [
+          "2023-04-24T18:48:57.582+0200"
+        ],
+        "esST_nid": [
+          "16180"
+        ],
+        "esST_answer": [
+          "<p>As indicated in the work programme, and along the lines of the collaboration between the Commission and FRONTEX on border security research outlined in the published Terms of Reference, there is no need for FRONTEX (the Agency) to be a partner of a consortium or to be in the advisory board (or similar) of a project. Furthermore, applicants should expect that, if proposals will be successful and be granted funding, FRONTEX will be interested in observing and be kept updated on the progress of the project.</p>\n<p>We advise you to read the documents available at the following links to better understand how to fulfil the requirements of “addressing the priorities of the EBCG and its Agency from the design of the project” for topics BM-01, BM-02, BM-03.</p>\n<ul class=\"list\">\n<li><a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1896\" target=\"_blank\">Frontex Regulation</a></li>\n<li><a href=\"https://frontex.europa.eu/assets/Key_Documents/IBM/EU_IBM_Brochure_EN.pdf\" target=\"_blank\">Technical and Operational strategy for EU IBM</a></li>\n<li><a href=\"https://frontex.europa.eu/publications/frontex-releases-risk-analysis-for-2021-MmzGl0\" target=\"_blank\">Frontex releases Risk Analysis for 2021</a></li>\n<li><a href=\"https://frontex.europa.eu/about-frontex/key-documents/?category=sea-borders-surveillance-report&amp;year=2019\" target=\"_blank\">Sea Border Surveillance report 2019</a></li>\n<li><a href=\"https://frontex.europa.eu/publications/?category=research\" target=\"_blank\">Other FRONTEX publications</a></li>\n<li><a href=\"https://ec.europa.eu/home-affairs/sites/default/files/20200206_tor-ec-dg-home-frontex.pdf\" target=\"_blank\">The ToR Frontex-Home</a></li>\n</ul>\n<p>For more information on this topic, you can watch the video of the session dedicated to the cooperation with FRONTEX on the <a href=\"https://seren4-heu-cluster3-infoday.b2match.io/\" target=\"_blank\">webpage of the InfoDay of Cluster 3</a> (01/07/2021).</p>\n"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq/16180"
+        ],
+        "esST_programme": [
+          "43108390"
+        ],
+        "corporate-search-version": [
+          "102"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq/16180"
+        ],
+        "esST_period": [
+          "2021 - 2027"
+        ],
+        "cenTagsA": [
+          "FAQS-053461",
+          "FAQS-053462",
+          "FAQS-053463",
+          "FAQS-053464",
+          "FAQS-053465",
+          "FAQS-032876",
+          "FAQS-053466",
+          "FAQS-053467",
+          "FAQS-053468",
+          "FAQS-053469"
+        ],
+        "esDA_QueueDate": [
+          "2023-04-24T18:48:57.540+0200"
+        ],
+        "esST_question": [
+          "In the scope of the calls HORIZON-CL3-2021-BM-01/02/03, it is stated that proposals are expected to engage with the Agency FRONTEX in the development of the project. Does this mean that FRONTEX must be a partner within the project consortium?"
+        ],
+        "answer": [
+          "<p>As indicated in the work programme, and along the lines of the collaboration between the Commission and FRONTEX on border security research outlined in the published Terms of Reference, there is no need for FRONTEX (the Agency) to be a partner of a consortium or to be in the advisory board (or similar) of a project. Furthermore, applicants should expect that, if proposals will be successful and be granted funding, FRONTEX will be interested in observing and be kept updated on the progress of the project.</p>\n<p>We advise you to read the documents available at the following links to better understand how to fulfil the requirements of “addressing the priorities of the EBCG and its Agency from the design of the project” for topics BM-01, BM-02, BM-03.</p>\n<ul class=\"list\">\n<li><a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1896\" target=\"_blank\">Frontex Regulation</a></li>\n<li><a href=\"https://frontex.europa.eu/assets/Key_Documents/IBM/EU_IBM_Brochure_EN.pdf\" target=\"_blank\">Technical and Operational strategy for EU IBM</a></li>\n<li><a href=\"https://frontex.europa.eu/publications/frontex-releases-risk-analysis-for-2021-MmzGl0\" target=\"_blank\">Frontex releases Risk Analysis for 2021</a></li>\n<li><a href=\"https://frontex.europa.eu/about-frontex/key-documents/?category=sea-borders-surveillance-report&amp;year=2019\" target=\"_blank\">Sea Border Surveillance report 2019</a></li>\n<li><a href=\"https://frontex.europa.eu/publications/?category=research\" target=\"_blank\">Other FRONTEX publications</a></li>\n<li><a href=\"https://ec.europa.eu/home-affairs/sites/default/files/20200206_tor-ec-dg-home-frontex.pdf\" target=\"_blank\">The ToR Frontex-Home</a></li>\n</ul>\n<p>For more information on this topic, you can watch the video of the session dedicated to the cooperation with FRONTEX on the <a href=\"https://seren4-heu-cluster3-infoday.b2match.io/\" target=\"_blank\">webpage of the InfoDay of Cluster 3</a> (01/07/2021).</p>\n"
+        ],
+        "datasource": [
+          "SEDIA_FAQ"
+        ],
+        "isTopTen": [
+          "false"
+        ],
+        "status": [
+          "0"
+        ],
+        "esST_publicationDate": [
+          "1628887440000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "In the scope of the calls <b>HORIZON</b>-<b>CL3</b>-2021-<b>BM</b>-<b>01</b>/<b>02</b>/03, it is stated that proposals are expected to engage with the Agency FRONTEX in the development of the project. Does this mean that FRONTEX must be a partner within the project consortium?"
+      ],
+      "citation": "16180. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq/16180"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "895107368",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/895107368",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "",
+      "summary": "myHealthbox",
+      "weight": 31.040035,
+      "content": "myHealthbox",
+      "accessRestriction": false,
+      "checksum": "AF784F4D3992F92FEB36E244E96CF6F5B3EF55300E27DFF43F456E2A445375FC",
+      "metadata": {
+        "es_SortDate": [
+          "2026-05-09T08:38:18.010+0200"
+        ],
+        "keywords": [
+          "big data",
+          "medicines",
+          "mhealth",
+          "search engine",
+          "epi",
+          "eleaflet",
+          "digital patient leaflet",
+          "digital SmPC",
+          "HORIZON-HLTH-2021-IND-07-03",
+          "HORIZON-HLTH-2021-TOOL-06",
+          "HORIZON-HLTH-2021-IND-07",
+          "HORIZON-HLTH-2021-ENVHLTH-03",
+          "HORIZON-HLTH-2021-ENVHLTH-02",
+          "HORIZON-HLTH-2021-STAYHLTH-01"
+        ],
+        "esIN_city": [
+          "MIlano"
+        ],
+        "esST_organisationType": [
+          "31079052"
+        ],
+        "esST_legalEntityStatus": [
+          "LEGAL_PERSON"
+        ],
+        "language": [
+          "en"
+        ],
+        "esST_vat": [
+          "09255870967"
+        ],
+        "type": [
+          "ORGANISATION"
+        ],
+        "esST_checksum": [
+          "AF784F4D3992F92FEB36E244E96CF6F5B3EF55300E27DFF43F456E2A445375FC"
+        ],
+        "esIN_noOfPartnerSearch": [
+          "0"
+        ],
+        "esBI_tagsAndKeywords": [
+          "[{\"text\":\"big data\",\"portalKeyword\":true,\"dbId\":810,\"deleted\":false},{\"text\":\"medicines\",\"portalKeyword\":true,\"dbId\":2056,\"deleted\":false},{\"text\":\"mhealth\",\"portalKeyword\":true,\"dbId\":4062,\"deleted\":false},{\"text\":\"search engine\",\"portalKeyword\":true,\"dbId\":25412,\"deleted\":false},{\"text\":\"epi\",\"portalKeyword\":true,\"dbId\":38276,\"deleted\":false},{\"text\":\"eleaflet\",\"portalKeyword\":true,\"dbId\":38277,\"deleted\":false},{\"text\":\"digital patient leaflet\",\"portalKeyword\":true,\"dbId\":38278,\"deleted\":false},{\"text\":\"digital SmPC\",\"portalKeyword\":true,\"dbId\":38279,\"deleted\":false},{\"text\":\"HORIZON-HLTH-2021-IND-07-03\",\"portalKeyword\":true,\"dbId\":38280,\"deleted\":false},{\"text\":\"HORIZON-HLTH-2021-TOOL-06\",\"portalKeyword\":true,\"dbId\":38281,\"deleted\":false},{\"text\":\"HORIZON-HLTH-2021-IND-07\",\"portalKeyword\":true,\"dbId\":38282,\"deleted\":false},{\"text\":\"HORIZON-HLTH-2021-ENVHLTH-03\",\"portalKeyword\":true,\"dbId\":38283,\"deleted\":false},{\"text\":\"HORIZON-HLTH-2021-ENVHLTH-02\",\"portalKeyword\":true,\"dbId\":38284,\"deleted\":false},{\"text\":\"HORIZON-HLTH-2021-STAYHLTH-01\",\"portalKeyword\":true,\"dbId\":38285,\"deleted\":false}]"
+        ],
+        "esBO_partnerSearchEnabled": [
+          "true"
+        ],
+        "esIN_pic": [
+          "895107368"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "esDA_lastModified": [
+          "2026-05-09T08:38:17.945+0200"
+        ],
+        "DATASOURCE": [
+          "SEDIA_PERSON"
+        ],
+        "REFERENCE": [
+          "895107368"
+        ],
+        "esST_country": [
+          "20000922"
+        ],
+        "esIN_deprecatedPics": [],
+        "esIN_name": [
+          "myHealthbox"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "esDA_FirstIngestDate": [
+          "2024-12-02T10:03:57.092+0100"
+        ],
+        "esDA_IngestDate": [
+          "2026-05-09T08:38:18.041+0200"
+        ],
+        "esIN_registrationNum": [],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/895107368"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/895107368"
+        ],
+        "esDA_QueueDate": [
+          "2026-05-09T08:38:18.020+0200"
+        ],
+        "esIN_utroPic": [],
+        "esNU_noOfProjects": [
+          "0"
+        ],
+        "esIN_erasmusCode": [],
+        "esST_hasPartnerSearch": [
+          "false"
+        ],
+        "esST_validationStatus": [
+          "31042521"
+        ],
+        "esIN_kohesioId": []
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "895107368. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/895107368"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "HORIZON-CL3-2024-BM-011719439203714",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "",
+      "weight": 30.074886,
+      "content": "",
+      "accessRestriction": false,
+      "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "metadata": {
+        "identifier": [],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2024-06-26T22:00:03.714+0000"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2024-07-05T09:32:23.708+0200"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-CL3-2024-BM-01-05(HORIZON-RIA), HORIZON-CL3-2024-BM-01-03(HORIZON-IA), HORIZON-CL3-2024-BM-01-02(HORIZON-IA), HORIZON-CL3-2024-BM-01-01(HORIZON-RIA), HORIZON-CL3-2024-BM-01-04(HORIZON-IA)"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+        ],
+        "esDA_QueueDate": [
+          "2024-07-05T09:32:23.565+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-CL3-2024-BM-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "HORIZON-CL3-2024-BM-011719439203714"
+        ],
+        "callTitle": [
+          "Border Management 2024"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2024-06-26T22:00:03.714+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "Available at: https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "HORIZON-CL3-2022-BM-011656540000837",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "",
+      "weight": 30.074886,
+      "content": "",
+      "accessRestriction": false,
+      "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "metadata": {
+        "identifier": [],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2022-06-29T22:00:00.837+0000"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2024-07-05T09:56:29.788+0200"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-CL3-2022-BM-01-03(HORIZON-IA), HORIZON-CL3-2022-BM-01-01(HORIZON-RIA), HORIZON-CL3-2022-BM-01-02(HORIZON-IA), HORIZON-CL3-2022-BM-01-04(HORIZON-RIA), HORIZON-CL3-2022-BM-01-05(HORIZON-IA)"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+        ],
+        "esDA_QueueDate": [
+          "2024-07-05T09:56:29.596+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-CL3-2022-BM-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "HORIZON-CL3-2022-BM-011656540000837"
+        ],
+        "callTitle": [
+          "Border Management 2022"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2022-06-29T22:00:00.837+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "Available at: https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "441141222270812",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-CL3-2022-BM-01-02.json",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Enhanced security of, and combating the frauds on, identity management and identity and travel documents",
+      "weight": 30.074886,
+      "content": "Enhanced security of, and combating the frauds on, identity management and identity and travel documents",
+      "accessRestriction": false,
+      "checksum": "AFB07AD01C72E88960949E91B9241EE4416929994DF13C93564E22DE520AEB0A",
+      "metadata": {
+        "identifier": [
+          "HORIZON-CL3-2022-BM-01-02"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2022-06-29T22:00:00.837+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2024-11-22T12:19:06.036+0100"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2024-11-22T12:19:06.036+0100"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-CL3-2022-BM-01-03(HORIZON-IA), HORIZON-CL3-2022-BM-01-01(HORIZON-RIA), HORIZON-CL3-2022-BM-01-02(HORIZON-IA), HORIZON-CL3-2022-BM-01-04(HORIZON-RIA), HORIZON-CL3-2022-BM-01-05(HORIZON-IA)"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Enhanced security of, and combating the frauds on, identity management and identity and travel documents"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "AFB07AD01C72E88960949E91B9241EE4416929994DF13C93564E22DE520AEB0A"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-CL3-2022-BM-01-02.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-CL3-2022-BM-01-02.json"
+        ],
+        "esDA_QueueDate": [
+          "2024-11-22T12:19:05.957+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-CL3-2022-BM-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "441141222270812"
+        ],
+        "callTitle": [
+          "Border Management 2022"
+        ],
+        "frameworkProgramme": [
+          "HORIZON"
+        ],
+        "startDate": [
+          "2022-06-29T22:00:00.837+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "Enhanced security of, and combating the frauds on, identity management and identity and travel documents. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-CL3-2022-BM-01-02.json"
+    },
+    {
+      "apiVersion": "2.154",
+      "reference": "441147242270363",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-CL3-2022-BM-01-04.json",
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "OPEN TOPIC",
+      "weight": 30.074886,
+      "content": "OPEN TOPIC",
+      "accessRestriction": false,
+      "checksum": "6E4AA96E007DB3DC609FF8EEFD0E2DEC35A72D650F72F421D9662BEA14636393",
+      "metadata": {
+        "identifier": [
+          "HORIZON-CL3-2022-BM-01-04"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2022-06-29T22:00:00.837+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2024-11-22T12:19:07.462+0100"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2024-11-22T12:19:07.462+0100"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-CL3-2022-BM-01-03(HORIZON-IA), HORIZON-CL3-2022-BM-01-01(HORIZON-RIA), HORIZON-CL3-2022-BM-01-02(HORIZON-IA), HORIZON-CL3-2022-BM-01-04(HORIZON-RIA), HORIZON-CL3-2022-BM-01-05(HORIZON-IA)"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "OPEN TOPIC"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "6E4AA96E007DB3DC609FF8EEFD0E2DEC35A72D650F72F421D9662BEA14636393"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-CL3-2022-BM-01-04.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-CL3-2022-BM-01-04.json"
+        ],
+        "esDA_QueueDate": [
+          "2024-11-22T12:19:07.317+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-CL3-2022-BM-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "441147242270363"
+        ],
+        "callTitle": [
+          "Border Management 2022"
+        ],
+        "frameworkProgramme": [
+          "HORIZON"
+        ],
+        "startDate": [
+          "2022-06-29T22:00:00.837+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [],
+      "citation": "OPEN TOPIC. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-CL3-2022-BM-01-04.json"
+    }
+  ],
+  "warnings": []
+}
